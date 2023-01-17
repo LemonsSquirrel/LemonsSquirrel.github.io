@@ -179,6 +179,19 @@ ul.style-type-none{
   text-decoration: none;
 }
 
+/* Background
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.bg-beige{
+  background-color: beige;
+}
+
+
+/* Borders
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.border-15{
+  border-radius: 15px;
+}
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
