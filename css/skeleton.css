@@ -691,9 +691,16 @@ hr {
   margin-bottom: 3.5rem;
   border-top: 1px solid #ABABAB; }
 
-  .space-new-line{
-    white-space: pre-line;
-  }
+.space-new-line{
+  white-space: pre-line;
+}
+
+.overflow-hidden{
+  overflow: hidden;
+}
+.overflow-scroll{
+  overflow: scroll;
+}
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
