@@ -774,6 +774,33 @@ hr {
   width: 100%;
 }
 
+.width-10.pixels{
+  width: 10px
+}
+.width-20.pixels{
+  width: 20px
+}
+.width-30.pixels{
+  width: 30px
+}
+.width-40.pixels{
+  width: 40px
+}
+.width-50.pixels{
+  width: 50px
+}
+.width-60.pixels{
+  width: 60px
+}
+.width-70.pixels{
+  width: 70px
+}
+.width-80.pixels{
+  width: 80px
+}
+.width-90.pixels{
+  width: 90px
+}
 .width-100.pixels{
   width: 100px
 }
@@ -869,6 +896,33 @@ hr {
   height: 100%;
 }
 
+.height-10.pixels{
+  height: 10px
+}
+.height-20.pixels{
+  height: 20px
+}
+.height-30.pixels{
+  height: 30px
+}
+.height-40.pixels{
+  height: 40px
+}
+.height-50.pixels{
+  height: 50px
+}
+.height-60.pixels{
+  height: 60px
+}
+.height-70.pixels{
+  height: 70px
+}
+.height-80.pixels{
+  height: 80px
+}
+.height-90.pixels{
+  height: 90px
+}
 .height-100.pixels{
   height: 100px
 }
