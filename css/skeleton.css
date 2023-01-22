@@ -928,6 +928,11 @@ hr {
 .background-salmon{
   background-color: salmon;
 }
+/* Positioning
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.text-center{
+  text-align: center;
+}
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
