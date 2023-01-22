@@ -48,6 +48,16 @@
   flex-direction: column-reverse;
 }
 
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.flex-nowrap{
+  flex-wrap: nowrap;
+}
+.flex-wrap-reverse{
+  flex-wrap: wrap-reverse;
+}
+
 .justify-center{
   justify-content: center;
 }
