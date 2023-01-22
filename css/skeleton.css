@@ -132,12 +132,6 @@
 
 /* Navbar
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.height-100{
-  height: 100%;
-}
-.width-100{
-  width: 100%;
-}
 .navbar{
   width: 100%;
   height: 10vh;
@@ -736,6 +730,68 @@ hr {
 .width-50{
   width: 50%
 }
+.width-55{
+  width: 55%
+}
+.width-60{
+  width: 60%
+}
+.width-65{
+  width: 65%
+}
+.width-70{
+  width: 70%
+}
+.width-75{
+  width: 75%
+}
+.width-80{
+  width: 80%
+}
+.width-85{
+  width: 85%
+}
+.width-90{
+  width: 90%
+}
+.width-95{
+  width: 95%
+}
+.width-100{
+  width: 100%;
+}
+
+.width-100.pixels{
+  width: 100px
+}
+.width-200.pixels{
+  width: 200px
+}
+.width-300.pixels{
+  width: 300px
+}
+.width-400.pixels{
+  width: 400px
+}
+.width-500.pixels{
+  width: 500px
+}
+.width-600.pixels{
+  width: 600px
+}
+.width-700.pixels{
+  width: 700px
+}
+.width-800.pixels{
+  width: 800px
+}
+.width-900.pixels{
+  width: 900px
+}
+.width-1000.pixels{
+  width: 1000px
+}
+
 .height-1{
   height: 1%
 }
@@ -768,6 +824,67 @@ hr {
 }
 .height-50{
   height: 50%
+}
+.height-55{
+  height: 55%
+}
+.height-60{
+  height: 60%
+}
+.height-65{
+  height: 65%
+}
+.height-70{
+  height: 70%
+}
+.height-75{
+  height: 75%
+}
+.height-80{
+  height: 80%
+}
+.height-85{
+  height: 85%
+}
+.height-90{
+  height: 90%
+}
+.height-95{
+  height: 95%
+}
+.height-100{
+  height: 100%;
+}
+
+.height-100.pixels{
+  height: 100px
+}
+.height-200.pixels{
+  height: 200px
+}
+.height-300.pixels{
+  height: 300px
+}
+.height-400.pixels{
+  height: 400px
+}
+.height-500.pixels{
+  height: 500px
+}
+.height-600.pixels{
+  height: 600px
+}
+.height-700.pixels{
+  height: 700px
+}
+.height-800.pixels{
+  height: 800px
+}
+.height-900.pixels{
+  height: 900px
+}
+.height-1000.pixels{
+  height: 1000px
 }
 /* Backgrounds
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
