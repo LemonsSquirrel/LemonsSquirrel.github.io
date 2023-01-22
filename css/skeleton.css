@@ -769,6 +769,38 @@ hr {
 .height-50{
   height: 50%
 }
+/* Backgrounds
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.background-green{
+  background-color: green;
+}
+.background-black{
+  background-color: black;
+}
+.background-white{
+  background-color: white;
+}
+.background-red{
+  background-color: red;
+}
+.background-blue{
+  background-color: blue;
+}
+.background-purple{
+  background-color: purple;
+}
+.background-yellow{
+  background-color: yellow;
+}
+.background-brown{
+  background-color: brown;
+}
+.background-tomato{
+  background-color: tomato;
+}
+.background-salmon{
+  background-color: salmon;
+}
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
