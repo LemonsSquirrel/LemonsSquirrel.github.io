@@ -836,8 +836,16 @@ form {
   width: 100%;
   box-sizing: border-box;
 }
+.u-full-height {
+  height: 100%;
+  box-sizing: border-box;
+}
 .u-max-full-width {
   max-width: 100%;
+  box-sizing: border-box;
+}
+.u-max-full-height {
+  max-height: 100%;
   box-sizing: border-box;
 }
 .u-pull-right {
