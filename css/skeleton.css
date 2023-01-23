@@ -891,362 +891,362 @@ hr {
 /* Widths and heights
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .width-1 {
-  width: 1%;
+  width: 1vw;
 }
 .width-1-pixels {
   width: 1px;
 }
 .width-5 {
-  width: 5%;
+  width: 5vw;
 }
 .width-5-pixels {
   width: 5px;
 }
 .width-10 {
-  width: 10%;
+  width: 10vw;
 }
 .width-10-pixels {
   width: 10px;
 }
 .width-15 {
-  width: 15%;
+  width: 15vw;
 }
 .width-15-pixels {
   width: 15px;
 }
 .width-20 {
-  width: 20%;
+  width: 20vw;
 }
 .width-20-pixels {
   width: 20px;
 }
 .width-25 {
-  width: 25%;
+  width: 25vw;
 }
 .width-25-pixels {
   width: 25px;
 }
 .width-30 {
-  width: 30%;
+  width: 30vw;
 }
 .width-30-pixels {
   width: 30px;
 }
 .width-35 {
-  width: 35%;
+  width: 35vw;
 }
 .width-35-pixels {
   width: 35px;
 }
 .width-40 {
-  width: 40%;
+  width: 40vw;
 }
 .width-40-pixels {
   width: 40px;
 }
 .width-45 {
-  width: 45%;
+  width: 45vw;
 }
 .width-45-pixels {
   width: 45px;
 }
 .width-50 {
-  width: 50%;
+  width: 50vw;
 }
 .width-50-pixels {
   width: 50px;
 }
 .width-55 {
-  width: 55%;
+  width: 55vw;
 }
 .width-55-pixels {
   width: 55px;
 }
 .width-60 {
-  width: 60%;
+  width: 60vw;
 }
 .width-60-pixels {
   width: 60px;
 }
 .width-65 {
-  width: 65%;
+  width: 65vw;
 }
 .width-65-pixels {
   width: 65px;
 }
 .width-70 {
-  width: 70%;
+  width: 70vw;
 }
 .width-70-pixels {
   width: 70px;
 }
 .width-75 {
-  width: 75%;
+  width: 75vw;
 }
 .width-75-pixels {
   width: 75px;
 }
 .width-80 {
-  width: 80%;
+  width: 80vw;
 }
 .width-80-pixels {
   width: 80px;
 }
 .width-85 {
-  width: 85%;
+  width: 85vw;
 }
 .width-85-pixels {
   width: 85px;
 }
 .width-90 {
-  width: 90%;
+  width: 90vw;
 }
 .width-90-pixels {
   width: 90px;
 }
 .width-95 {
-  width: 95%;
+  width: 95vw;
 }
 .width-95-pixels {
   width: 95px;
 }
 .width-100 {
-  width: 100%;
+  width: 100vw;
 }
 .width-100-pixels {
   width: 100px;
 }
 .width-200 {
-  width: 200%;
+  width: 200vw;
 }
 .width-200-pixels {
   width: 200px;
 }
 .width-300 {
-  width: 300%;
+  width: 300vw;
 }
 .width-300-pixels {
   width: 300px;
 }
 .width-400 {
-  width: 400%;
+  width: 400vw;
 }
 .width-400-pixels {
   width: 400px;
 }
 .width-500 {
-  width: 500%;
+  width: 500vw;
 }
 .width-500-pixels {
   width: 500px;
 }
 .width-600 {
-  width: 600%;
+  width: 600vw;
 }
 .width-600-pixels {
   width: 600px;
 }
 .width-700 {
-  width: 700%;
+  width: 700vw;
 }
 .width-700-pixels {
   width: 700px;
 }
 .width-800 {
-  width: 800%;
+  width: 800vw;
 }
 .width-800-pixels {
   width: 800px;
 }
 .width-900 {
-  width: 900%;
+  width: 900vw;
 }
 .width-900-pixels {
   width: 900px;
 }
 .width-1000 {
-  width: 1000%;
+  width: 1000vw;
 }
 .width-1000-pixels {
   width: 1000px;
 }
 
 .height-1 {
-  height: 1%;
+  height: 1vh;
 }
 .height-1-pixels {
   height: 1px;
 }
 .height-5 {
-  height: 5%;
+  height: 5vh;
 }
 .height-5-pixels {
   height: 5px;
 }
 .height-10 {
-  height: 10%;
+  height: 10vh;
 }
 .height-10-pixels {
   height: 10px;
 }
 .height-15 {
-  height: 15%;
+  height: 15vh;
 }
 .height-15-pixels {
   height: 15px;
 }
 .height-20 {
-  height: 20%;
+  height: 20vh;
 }
 .height-20-pixels {
   height: 20px;
 }
 .height-25 {
-  height: 25%;
+  height: 25vh;
 }
 .height-25-pixels {
   height: 25px;
 }
 .height-30 {
-  height: 30%;
+  height: 30vh;
 }
 .height-30-pixels {
   height: 30px;
 }
 .height-35 {
-  height: 35%;
+  height: 35vh;
 }
 .height-35-pixels {
   height: 35px;
 }
 .height-40 {
-  height: 40%;
+  height: 40vh;
 }
 .height-40-pixels {
   height: 40px;
 }
 .height-45 {
-  height: 45%;
+  height: 45vh;
 }
 .height-45-pixels {
   height: 45px;
 }
 .height-50 {
-  height: 50%;
+  height: 50vh;
 }
 .height-50-pixels {
   height: 50px;
 }
 .height-55 {
-  height: 55%;
+  height: 55vh;
 }
 .height-55-pixels {
   height: 55px;
 }
 .height-60 {
-  height: 60%;
+  height: 60vh;
 }
 .height-60-pixels {
   height: 60px;
 }
 .height-65 {
-  height: 65%;
+  height: 65vh;
 }
 .height-65-pixels {
   height: 65px;
 }
 .height-70 {
-  height: 70%;
+  height: 70vh;
 }
 .height-70-pixels {
   height: 70px;
 }
 .height-75 {
-  height: 75%;
+  height: 75vh;
 }
 .height-75-pixels {
   height: 75px;
 }
 .height-80 {
-  height: 80%;
+  height: 80vh;
 }
 .height-80-pixels {
   height: 80px;
 }
 .height-85 {
-  height: 85%;
+  height: 85vh;
 }
 .height-85-pixels {
   height: 85px;
 }
 .height-90 {
-  height: 90%;
+  height: 90vh;
 }
 .height-90-pixels {
   height: 90px;
 }
 .height-95 {
-  height: 95%;
+  height: 95vh;
 }
 .height-95-pixels {
   height: 95px;
 }
 .height-100 {
-  height: 100%;
+  height: 100vh;
 }
 .height-100-pixels {
   height: 100px;
 }
 .height-200 {
-  height: 200%;
+  height: 200vh;
 }
 .height-200-pixels {
   height: 200px;
 }
 .height-300 {
-  height: 300%;
+  height: 300vh;
 }
 .height-300-pixels {
   height: 300px;
 }
 .height-400 {
-  height: 400%;
+  height: 400vh;
 }
 .height-400-pixels {
   height: 400px;
 }
 .height-500 {
-  height: 500%;
+  height: 500vh;
 }
 .height-500-pixels {
   height: 500px;
 }
 .height-600 {
-  height: 600%;
+  height: 600vh;
 }
 .height-600-pixels {
   height: 600px;
 }
 .height-700 {
-  height: 700%;
+  height: 700vh;
 }
 .height-700-pixels {
   height: 700px;
 }
 .height-800 {
-  height: 800%;
+  height: 800vh;
 }
 .height-800-pixels {
   height: 800px;
 }
 .height-900 {
-  height: 900%;
+  height: 900vh;
 }
 .height-900-pixels {
   height: 900px;
 }
 .height-1000 {
-  height: 1000%;
+  height: 1000vh;
 }
 .height-1000-pixels {
   height: 1000px;
