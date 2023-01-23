@@ -186,16 +186,63 @@ ul.style-type-none{
 /* Background
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.bg-beige{
+.background-beige{
   background-color: beige;
+}
+.background-green{
+  background-color: green;
+}
+.background-black{
+  background-color: black;
+}
+.background-white{
+  background-color: white;
+}
+.background-red{
+  background-color: red;
+}
+.background-blue{
+  background-color: blue;
+}
+.background-purple{
+  background-color: purple;
+}
+.background-yellow{
+  background-color: yellow;
+}
+.background-brown{
+  background-color: brown;
+}
+.background-tomato{
+  background-color: tomato;
+}
+.background-salmon{
+  background-color: salmon;
 }
 
 
 /* Borders
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.border-15{
-  border-radius: 15px;
+.radius-5{
+  border-radius: 5px;
 }
+.radius-10.pixels{
+  border-radius: 10px;
+}
+.radius-20.pixels{
+  border-radius: 20px;
+}
+.radius-25.pixels{
+  border-radius: 25px;
+}
+.radius-30.pixels{
+  border-radius: 30px;
+}
+.radius-35.pixels{
+  border-radius: 35px;
+}
+
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -719,68 +766,134 @@ hr {
 
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.width-1{
-  width: 1%
-}
-.width-5{
-  width: 5%
-}
-.width-10{
-  width: 10%
-}
-.width-15{
-  width: 15%
-}
-.width-20{
-  width: 20%
-}
-.width-25{
-  width: 25%
-}
-.width-30{
-  width: 30%
-}
-.width-35{
-  width: 35%
-}
-.width-40{
-  width: 40%
-}
-.width-45{
-  width: 45%
-}
-.width-50{
-  width: 50%
-}
-.width-55{
-  width: 55%
-}
-.width-60{
-  width: 60%
-}
-.width-65{
-  width: 65%
-}
-.width-70{
-  width: 70%
-}
-.width-75{
-  width: 75%
-}
-.width-80{
-  width: 80%
-}
-.width-85{
-  width: 85%
-}
-.width-90{
-  width: 90%
-}
-.width-95{
-  width: 95%
-}
-.width-100{
-  width: 100%;
+.width{
+  &-1 {
+    width: 1%;
+    &-pixels{
+      width: 1px;
+    }
+  }
+  &-5{
+    width: 5%;
+    &-pixels{
+      width: 5px;
+    }
+  }
+  &-10{
+    width: 10%;
+    &-pixels{
+      width: 10px;
+    }
+  }
+  &-15{
+    width: 15%;
+    &-pixels{
+      width: 15px;
+    }
+  }
+  &-20{
+    width: 20%;
+    &-pixels{
+      width: 20px;
+    }
+  }
+  &-25{
+    width: 25%;
+    &-pixels{
+      width: 25px;
+    }
+  }
+  &-30{
+    width: 30%;
+    &-pixels{
+      width: 30px;
+    }
+  }
+  &-35{
+    width: 35%;
+    &-pixels{
+      width: 35px;
+    }
+  }
+  &-40{
+    width: 40%;
+    &-pixels{
+      width: 40px;
+    }
+  }
+  &-45{
+    width: 45%;
+    &-pixels{
+      width: 45px;
+    }
+  }
+  &-50{
+    width: 50%;
+    &-pixels{
+      width: 50px;
+    }
+  }
+  &-55{
+    width: 55%;
+    &-pixels{
+      width: 55px;
+    }
+  }
+  &-60{
+    width: 60%;
+    &-pixels{
+      width: 60px;
+    }
+  }
+  &-65{
+    width: 65%;
+    &-pixels{
+      width: 65px;
+    }
+  }
+  &-70{
+    width: 70%;
+    &-pixels{
+      width: 70px;
+    }
+  }
+  &-75{
+    width: 75%;
+    &-pixels{
+      width: 75px;
+    }
+  }
+  &-80{
+    width: 80%;
+    &-pixels{
+      width: 80px;
+    }
+  }
+  &-85{
+    width: 85%;
+    &-pixels{
+      width: 85px;
+    }
+  }
+  &-90{
+    width: 90%;
+    &-pixels{
+      width: 90px;
+    }
+  }
+  &-95{
+    width: 95%;
+    &-pixels{
+      width: 95px;
+    }
+  }
+  &-100{
+    width: 100%;
+    &-pixels{
+      width: 100px;
+    }
+  }
+
 }
 
 .width-10.pixels{
@@ -962,38 +1075,7 @@ hr {
 .height-1000.pixels{
   height: 1000px
 }
-/* Backgrounds
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.background-green{
-  background-color: green;
-}
-.background-black{
-  background-color: black;
-}
-.background-white{
-  background-color: white;
-}
-.background-red{
-  background-color: red;
-}
-.background-blue{
-  background-color: blue;
-}
-.background-purple{
-  background-color: purple;
-}
-.background-yellow{
-  background-color: yellow;
-}
-.background-brown{
-  background-color: brown;
-}
-.background-tomato{
-  background-color: tomato;
-}
-.background-salmon{
-  background-color: salmon;
-}
+
 /* Positioning
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .text-center{
