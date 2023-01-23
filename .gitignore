@@ -1,3 +1,2 @@
-/css/test/
-/css/*.scss
-/css/*.css.map
+/css/*
+!/css/*.css
