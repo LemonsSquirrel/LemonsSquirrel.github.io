@@ -3992,7 +3992,7 @@ html {
    * Remove default margin.
    */
 body {
-  margin: 10vh 0 0 10vh;
+  margin: 0;
 }
 
 /* HTML5 display definitions
