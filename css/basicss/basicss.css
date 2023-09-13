@@ -1,1082 +1,1082 @@
 @charset "UTF-8";
 .width-1 {
-  width: 1 + "vw";
+  width: 1vw;
 }
 
 .width-1-pixels {
-  width: 1 + "px";
+  width: 1px;
 }
 
 .width-1-percents {
-  width: 1 + "%";
+  width: 1+0%;
 }
 
 .width-5 {
-  width: 5 + "vw";
+  width: 5vw;
 }
 
 .width-5-pixels {
-  width: 5 + "px";
+  width: 5px;
 }
 
 .width-5-percents {
-  width: 5 + "%";
+  width: 5+0%;
 }
 
 .width-10 {
-  width: 10 + "vw";
+  width: 10vw;
 }
 
 .width-10-pixels {
-  width: 10 + "px";
+  width: 10px;
 }
 
 .width-10-percents {
-  width: 10 + "%";
+  width: 10+0%;
 }
 
 .width-15 {
-  width: 15 + "vw";
+  width: 15vw;
 }
 
 .width-15-pixels {
-  width: 15 + "px";
+  width: 15px;
 }
 
 .width-15-percents {
-  width: 15 + "%";
+  width: 15+0%;
 }
 
 .width-20 {
-  width: 20 + "vw";
+  width: 20vw;
 }
 
 .width-20-pixels {
-  width: 20 + "px";
+  width: 20px;
 }
 
 .width-20-percents {
-  width: 20 + "%";
+  width: 20+0%;
 }
 
 .width-25 {
-  width: 25 + "vw";
+  width: 25vw;
 }
 
 .width-25-pixels {
-  width: 25 + "px";
+  width: 25px;
 }
 
 .width-25-percents {
-  width: 25 + "%";
+  width: 25+0%;
 }
 
 .width-30 {
-  width: 30 + "vw";
+  width: 30vw;
 }
 
 .width-30-pixels {
-  width: 30 + "px";
+  width: 30px;
 }
 
 .width-30-percents {
-  width: 30 + "%";
+  width: 30+0%;
 }
 
 .width-35 {
-  width: 35 + "vw";
+  width: 35vw;
 }
 
 .width-35-pixels {
-  width: 35 + "px";
+  width: 35px;
 }
 
 .width-35-percents {
-  width: 35 + "%";
+  width: 35+0%;
 }
 
 .width-40 {
-  width: 40 + "vw";
+  width: 40vw;
 }
 
 .width-40-pixels {
-  width: 40 + "px";
+  width: 40px;
 }
 
 .width-40-percents {
-  width: 40 + "%";
+  width: 40+0%;
 }
 
 .width-45 {
-  width: 45 + "vw";
+  width: 45vw;
 }
 
 .width-45-pixels {
-  width: 45 + "px";
+  width: 45px;
 }
 
 .width-45-percents {
-  width: 45 + "%";
+  width: 45+0%;
 }
 
 .width-50 {
-  width: 50 + "vw";
+  width: 50vw;
 }
 
 .width-50-pixels {
-  width: 50 + "px";
+  width: 50px;
 }
 
 .width-50-percents {
-  width: 50 + "%";
+  width: 50+0%;
 }
 
 .width-55 {
-  width: 55 + "vw";
+  width: 55vw;
 }
 
 .width-55-pixels {
-  width: 55 + "px";
+  width: 55px;
 }
 
 .width-55-percents {
-  width: 55 + "%";
+  width: 55+0%;
 }
 
 .width-60 {
-  width: 60 + "vw";
+  width: 60vw;
 }
 
 .width-60-pixels {
-  width: 60 + "px";
+  width: 60px;
 }
 
 .width-60-percents {
-  width: 60 + "%";
+  width: 60+0%;
 }
 
 .width-65 {
-  width: 65 + "vw";
+  width: 65vw;
 }
 
 .width-65-pixels {
-  width: 65 + "px";
+  width: 65px;
 }
 
 .width-65-percents {
-  width: 65 + "%";
+  width: 65+0%;
 }
 
 .width-70 {
-  width: 70 + "vw";
+  width: 70vw;
 }
 
 .width-70-pixels {
-  width: 70 + "px";
+  width: 70px;
 }
 
 .width-70-percents {
-  width: 70 + "%";
+  width: 70+0%;
 }
 
 .width-75 {
-  width: 75 + "vw";
+  width: 75vw;
 }
 
 .width-75-pixels {
-  width: 75 + "px";
+  width: 75px;
 }
 
 .width-75-percents {
-  width: 75 + "%";
+  width: 75+0%;
 }
 
 .width-80 {
-  width: 80 + "vw";
+  width: 80vw;
 }
 
 .width-80-pixels {
-  width: 80 + "px";
+  width: 80px;
 }
 
 .width-80-percents {
-  width: 80 + "%";
+  width: 80+0%;
 }
 
 .width-85 {
-  width: 85 + "vw";
+  width: 85vw;
 }
 
 .width-85-pixels {
-  width: 85 + "px";
+  width: 85px;
 }
 
 .width-85-percents {
-  width: 85 + "%";
+  width: 85+0%;
 }
 
 .width-90 {
-  width: 90 + "vw";
+  width: 90vw;
 }
 
 .width-90-pixels {
-  width: 90 + "px";
+  width: 90px;
 }
 
 .width-90-percents {
-  width: 90 + "%";
+  width: 90+0%;
 }
 
 .width-95 {
-  width: 95 + "vw";
+  width: 95vw;
 }
 
 .width-95-pixels {
-  width: 95 + "px";
+  width: 95px;
 }
 
 .width-95-percents {
-  width: 95 + "%";
+  width: 95+0%;
 }
 
 .width-100 {
-  width: 100 + "vw";
+  width: 100vw;
 }
 
 .width-100-pixels {
-  width: 100 + "px";
+  width: 100px;
 }
 
 .width-100-percents {
-  width: 100 + "%";
+  width: 100+0%;
 }
 
 .width-200 {
-  width: 200 + "vw";
+  width: 200vw;
 }
 
 .width-200-pixels {
-  width: 200 + "px";
+  width: 200px;
 }
 
 .width-200-percents {
-  width: 200 + "%";
+  width: 200+0%;
 }
 
 .width-300 {
-  width: 300 + "vw";
+  width: 300vw;
 }
 
 .width-300-pixels {
-  width: 300 + "px";
+  width: 300px;
 }
 
 .width-300-percents {
-  width: 300 + "%";
+  width: 300+0%;
 }
 
 .width-400 {
-  width: 400 + "vw";
+  width: 400vw;
 }
 
 .width-400-pixels {
-  width: 400 + "px";
+  width: 400px;
 }
 
 .width-400-percents {
-  width: 400 + "%";
+  width: 400+0%;
 }
 
 .width-500 {
-  width: 500 + "vw";
+  width: 500vw;
 }
 
 .width-500-pixels {
-  width: 500 + "px";
+  width: 500px;
 }
 
 .width-500-percents {
-  width: 500 + "%";
+  width: 500+0%;
 }
 
 .width-600 {
-  width: 600 + "vw";
+  width: 600vw;
 }
 
 .width-600-pixels {
-  width: 600 + "px";
+  width: 600px;
 }
 
 .width-600-percents {
-  width: 600 + "%";
+  width: 600+0%;
 }
 
 .width-700 {
-  width: 700 + "vw";
+  width: 700vw;
 }
 
 .width-700-pixels {
-  width: 700 + "px";
+  width: 700px;
 }
 
 .width-700-percents {
-  width: 700 + "%";
+  width: 700+0%;
 }
 
 .width-800 {
-  width: 800 + "vw";
+  width: 800vw;
 }
 
 .width-800-pixels {
-  width: 800 + "px";
+  width: 800px;
 }
 
 .width-800-percents {
-  width: 800 + "%";
+  width: 800+0%;
 }
 
 .width-900 {
-  width: 900 + "vw";
+  width: 900vw;
 }
 
 .width-900-pixels {
-  width: 900 + "px";
+  width: 900px;
 }
 
 .width-900-percents {
-  width: 900 + "%";
+  width: 900+0%;
 }
 
 .width-1000 {
-  width: 1000 + "vw";
+  width: 1000vw;
 }
 
 .width-1000-pixels {
-  width: 1000 + "px";
+  width: 1000px;
 }
 
 .width-1000-percents {
-  width: 1000 + "%";
+  width: 1000+0%;
 }
 
 .height-1 {
-  height: 1 + "vw";
+  height: 1vw;
 }
 
 .height-1-pixels {
-  height: 1 + "px";
+  height: 1px;
 }
 
 .height-1-percents {
-  height: 1 + "%";
+  height: 1+0%;
 }
 
 .height-5 {
-  height: 5 + "vw";
+  height: 5vw;
 }
 
 .height-5-pixels {
-  height: 5 + "px";
+  height: 5px;
 }
 
 .height-5-percents {
-  height: 5 + "%";
+  height: 5+0%;
 }
 
 .height-10 {
-  height: 10 + "vw";
+  height: 10vw;
 }
 
 .height-10-pixels {
-  height: 10 + "px";
+  height: 10px;
 }
 
 .height-10-percents {
-  height: 10 + "%";
+  height: 10+0%;
 }
 
 .height-15 {
-  height: 15 + "vw";
+  height: 15vw;
 }
 
 .height-15-pixels {
-  height: 15 + "px";
+  height: 15px;
 }
 
 .height-15-percents {
-  height: 15 + "%";
+  height: 15+0%;
 }
 
 .height-20 {
-  height: 20 + "vw";
+  height: 20vw;
 }
 
 .height-20-pixels {
-  height: 20 + "px";
+  height: 20px;
 }
 
 .height-20-percents {
-  height: 20 + "%";
+  height: 20+0%;
 }
 
 .height-25 {
-  height: 25 + "vw";
+  height: 25vw;
 }
 
 .height-25-pixels {
-  height: 25 + "px";
+  height: 25px;
 }
 
 .height-25-percents {
-  height: 25 + "%";
+  height: 25+0%;
 }
 
 .height-30 {
-  height: 30 + "vw";
+  height: 30vw;
 }
 
 .height-30-pixels {
-  height: 30 + "px";
+  height: 30px;
 }
 
 .height-30-percents {
-  height: 30 + "%";
+  height: 30+0%;
 }
 
 .height-35 {
-  height: 35 + "vw";
+  height: 35vw;
 }
 
 .height-35-pixels {
-  height: 35 + "px";
+  height: 35px;
 }
 
 .height-35-percents {
-  height: 35 + "%";
+  height: 35+0%;
 }
 
 .height-40 {
-  height: 40 + "vw";
+  height: 40vw;
 }
 
 .height-40-pixels {
-  height: 40 + "px";
+  height: 40px;
 }
 
 .height-40-percents {
-  height: 40 + "%";
+  height: 40+0%;
 }
 
 .height-45 {
-  height: 45 + "vw";
+  height: 45vw;
 }
 
 .height-45-pixels {
-  height: 45 + "px";
+  height: 45px;
 }
 
 .height-45-percents {
-  height: 45 + "%";
+  height: 45+0%;
 }
 
 .height-50 {
-  height: 50 + "vw";
+  height: 50vw;
 }
 
 .height-50-pixels {
-  height: 50 + "px";
+  height: 50px;
 }
 
 .height-50-percents {
-  height: 50 + "%";
+  height: 50+0%;
 }
 
 .height-55 {
-  height: 55 + "vw";
+  height: 55vw;
 }
 
 .height-55-pixels {
-  height: 55 + "px";
+  height: 55px;
 }
 
 .height-55-percents {
-  height: 55 + "%";
+  height: 55+0%;
 }
 
 .height-60 {
-  height: 60 + "vw";
+  height: 60vw;
 }
 
 .height-60-pixels {
-  height: 60 + "px";
+  height: 60px;
 }
 
 .height-60-percents {
-  height: 60 + "%";
+  height: 60+0%;
 }
 
 .height-65 {
-  height: 65 + "vw";
+  height: 65vw;
 }
 
 .height-65-pixels {
-  height: 65 + "px";
+  height: 65px;
 }
 
 .height-65-percents {
-  height: 65 + "%";
+  height: 65+0%;
 }
 
 .height-70 {
-  height: 70 + "vw";
+  height: 70vw;
 }
 
 .height-70-pixels {
-  height: 70 + "px";
+  height: 70px;
 }
 
 .height-70-percents {
-  height: 70 + "%";
+  height: 70+0%;
 }
 
 .height-75 {
-  height: 75 + "vw";
+  height: 75vw;
 }
 
 .height-75-pixels {
-  height: 75 + "px";
+  height: 75px;
 }
 
 .height-75-percents {
-  height: 75 + "%";
+  height: 75+0%;
 }
 
 .height-80 {
-  height: 80 + "vw";
+  height: 80vw;
 }
 
 .height-80-pixels {
-  height: 80 + "px";
+  height: 80px;
 }
 
 .height-80-percents {
-  height: 80 + "%";
+  height: 80+0%;
 }
 
 .height-85 {
-  height: 85 + "vw";
+  height: 85vw;
 }
 
 .height-85-pixels {
-  height: 85 + "px";
+  height: 85px;
 }
 
 .height-85-percents {
-  height: 85 + "%";
+  height: 85+0%;
 }
 
 .height-90 {
-  height: 90 + "vw";
+  height: 90vw;
 }
 
 .height-90-pixels {
-  height: 90 + "px";
+  height: 90px;
 }
 
 .height-90-percents {
-  height: 90 + "%";
+  height: 90+0%;
 }
 
 .height-95 {
-  height: 95 + "vw";
+  height: 95vw;
 }
 
 .height-95-pixels {
-  height: 95 + "px";
+  height: 95px;
 }
 
 .height-95-percents {
-  height: 95 + "%";
+  height: 95+0%;
 }
 
 .height-100 {
-  height: 100 + "vw";
+  height: 100vw;
 }
 
 .height-100-pixels {
-  height: 100 + "px";
+  height: 100px;
 }
 
 .height-100-percents {
-  height: 100 + "%";
+  height: 100+0%;
 }
 
 .height-200 {
-  height: 200 + "vw";
+  height: 200vw;
 }
 
 .height-200-pixels {
-  height: 200 + "px";
+  height: 200px;
 }
 
 .height-200-percents {
-  height: 200 + "%";
+  height: 200+0%;
 }
 
 .height-300 {
-  height: 300 + "vw";
+  height: 300vw;
 }
 
 .height-300-pixels {
-  height: 300 + "px";
+  height: 300px;
 }
 
 .height-300-percents {
-  height: 300 + "%";
+  height: 300+0%;
 }
 
 .height-400 {
-  height: 400 + "vw";
+  height: 400vw;
 }
 
 .height-400-pixels {
-  height: 400 + "px";
+  height: 400px;
 }
 
 .height-400-percents {
-  height: 400 + "%";
+  height: 400+0%;
 }
 
 .height-500 {
-  height: 500 + "vw";
+  height: 500vw;
 }
 
 .height-500-pixels {
-  height: 500 + "px";
+  height: 500px;
 }
 
 .height-500-percents {
-  height: 500 + "%";
+  height: 500+0%;
 }
 
 .height-600 {
-  height: 600 + "vw";
+  height: 600vw;
 }
 
 .height-600-pixels {
-  height: 600 + "px";
+  height: 600px;
 }
 
 .height-600-percents {
-  height: 600 + "%";
+  height: 600+0%;
 }
 
 .height-700 {
-  height: 700 + "vw";
+  height: 700vw;
 }
 
 .height-700-pixels {
-  height: 700 + "px";
+  height: 700px;
 }
 
 .height-700-percents {
-  height: 700 + "%";
+  height: 700+0%;
 }
 
 .height-800 {
-  height: 800 + "vw";
+  height: 800vw;
 }
 
 .height-800-pixels {
-  height: 800 + "px";
+  height: 800px;
 }
 
 .height-800-percents {
-  height: 800 + "%";
+  height: 800+0%;
 }
 
 .height-900 {
-  height: 900 + "vw";
+  height: 900vw;
 }
 
 .height-900-pixels {
-  height: 900 + "px";
+  height: 900px;
 }
 
 .height-900-percents {
-  height: 900 + "%";
+  height: 900+0%;
 }
 
 .height-1000 {
-  height: 1000 + "vw";
+  height: 1000vw;
 }
 
 .height-1000-pixels {
-  height: 1000 + "px";
+  height: 1000px;
 }
 
 .height-1000-percents {
-  height: 1000 + "%";
+  height: 1000+0%;
 }
 
 .gap-1 {
-  gap: 1 + "vw";
+  gap: 1vw;
 }
 
 .gap-1-pixels {
-  gap: 1 + "px";
+  gap: 1px;
 }
 
 .gap-1-percents {
-  gap: 1 + "%";
+  gap: 1+0%;
 }
 
 .gap-5 {
-  gap: 5 + "vw";
+  gap: 5vw;
 }
 
 .gap-5-pixels {
-  gap: 5 + "px";
+  gap: 5px;
 }
 
 .gap-5-percents {
-  gap: 5 + "%";
+  gap: 5+0%;
 }
 
 .gap-10 {
-  gap: 10 + "vw";
+  gap: 10vw;
 }
 
 .gap-10-pixels {
-  gap: 10 + "px";
+  gap: 10px;
 }
 
 .gap-10-percents {
-  gap: 10 + "%";
+  gap: 10+0%;
 }
 
 .gap-15 {
-  gap: 15 + "vw";
+  gap: 15vw;
 }
 
 .gap-15-pixels {
-  gap: 15 + "px";
+  gap: 15px;
 }
 
 .gap-15-percents {
-  gap: 15 + "%";
+  gap: 15+0%;
 }
 
 .gap-20 {
-  gap: 20 + "vw";
+  gap: 20vw;
 }
 
 .gap-20-pixels {
-  gap: 20 + "px";
+  gap: 20px;
 }
 
 .gap-20-percents {
-  gap: 20 + "%";
+  gap: 20+0%;
 }
 
 .gap-25 {
-  gap: 25 + "vw";
+  gap: 25vw;
 }
 
 .gap-25-pixels {
-  gap: 25 + "px";
+  gap: 25px;
 }
 
 .gap-25-percents {
-  gap: 25 + "%";
+  gap: 25+0%;
 }
 
 .gap-30 {
-  gap: 30 + "vw";
+  gap: 30vw;
 }
 
 .gap-30-pixels {
-  gap: 30 + "px";
+  gap: 30px;
 }
 
 .gap-30-percents {
-  gap: 30 + "%";
+  gap: 30+0%;
 }
 
 .gap-35 {
-  gap: 35 + "vw";
+  gap: 35vw;
 }
 
 .gap-35-pixels {
-  gap: 35 + "px";
+  gap: 35px;
 }
 
 .gap-35-percents {
-  gap: 35 + "%";
+  gap: 35+0%;
 }
 
 .gap-40 {
-  gap: 40 + "vw";
+  gap: 40vw;
 }
 
 .gap-40-pixels {
-  gap: 40 + "px";
+  gap: 40px;
 }
 
 .gap-40-percents {
-  gap: 40 + "%";
+  gap: 40+0%;
 }
 
 .gap-45 {
-  gap: 45 + "vw";
+  gap: 45vw;
 }
 
 .gap-45-pixels {
-  gap: 45 + "px";
+  gap: 45px;
 }
 
 .gap-45-percents {
-  gap: 45 + "%";
+  gap: 45+0%;
 }
 
 .gap-50 {
-  gap: 50 + "vw";
+  gap: 50vw;
 }
 
 .gap-50-pixels {
-  gap: 50 + "px";
+  gap: 50px;
 }
 
 .gap-50-percents {
-  gap: 50 + "%";
+  gap: 50+0%;
 }
 
 .gap-55 {
-  gap: 55 + "vw";
+  gap: 55vw;
 }
 
 .gap-55-pixels {
-  gap: 55 + "px";
+  gap: 55px;
 }
 
 .gap-55-percents {
-  gap: 55 + "%";
+  gap: 55+0%;
 }
 
 .gap-60 {
-  gap: 60 + "vw";
+  gap: 60vw;
 }
 
 .gap-60-pixels {
-  gap: 60 + "px";
+  gap: 60px;
 }
 
 .gap-60-percents {
-  gap: 60 + "%";
+  gap: 60+0%;
 }
 
 .gap-65 {
-  gap: 65 + "vw";
+  gap: 65vw;
 }
 
 .gap-65-pixels {
-  gap: 65 + "px";
+  gap: 65px;
 }
 
 .gap-65-percents {
-  gap: 65 + "%";
+  gap: 65+0%;
 }
 
 .gap-70 {
-  gap: 70 + "vw";
+  gap: 70vw;
 }
 
 .gap-70-pixels {
-  gap: 70 + "px";
+  gap: 70px;
 }
 
 .gap-70-percents {
-  gap: 70 + "%";
+  gap: 70+0%;
 }
 
 .gap-75 {
-  gap: 75 + "vw";
+  gap: 75vw;
 }
 
 .gap-75-pixels {
-  gap: 75 + "px";
+  gap: 75px;
 }
 
 .gap-75-percents {
-  gap: 75 + "%";
+  gap: 75+0%;
 }
 
 .gap-80 {
-  gap: 80 + "vw";
+  gap: 80vw;
 }
 
 .gap-80-pixels {
-  gap: 80 + "px";
+  gap: 80px;
 }
 
 .gap-80-percents {
-  gap: 80 + "%";
+  gap: 80+0%;
 }
 
 .gap-85 {
-  gap: 85 + "vw";
+  gap: 85vw;
 }
 
 .gap-85-pixels {
-  gap: 85 + "px";
+  gap: 85px;
 }
 
 .gap-85-percents {
-  gap: 85 + "%";
+  gap: 85+0%;
 }
 
 .gap-90 {
-  gap: 90 + "vw";
+  gap: 90vw;
 }
 
 .gap-90-pixels {
-  gap: 90 + "px";
+  gap: 90px;
 }
 
 .gap-90-percents {
-  gap: 90 + "%";
+  gap: 90+0%;
 }
 
 .gap-95 {
-  gap: 95 + "vw";
+  gap: 95vw;
 }
 
 .gap-95-pixels {
-  gap: 95 + "px";
+  gap: 95px;
 }
 
 .gap-95-percents {
-  gap: 95 + "%";
+  gap: 95+0%;
 }
 
 .gap-100 {
-  gap: 100 + "vw";
+  gap: 100vw;
 }
 
 .gap-100-pixels {
-  gap: 100 + "px";
+  gap: 100px;
 }
 
 .gap-100-percents {
-  gap: 100 + "%";
+  gap: 100+0%;
 }
 
 .gap-200 {
-  gap: 200 + "vw";
+  gap: 200vw;
 }
 
 .gap-200-pixels {
-  gap: 200 + "px";
+  gap: 200px;
 }
 
 .gap-200-percents {
-  gap: 200 + "%";
+  gap: 200+0%;
 }
 
 .gap-300 {
-  gap: 300 + "vw";
+  gap: 300vw;
 }
 
 .gap-300-pixels {
-  gap: 300 + "px";
+  gap: 300px;
 }
 
 .gap-300-percents {
-  gap: 300 + "%";
+  gap: 300+0%;
 }
 
 .gap-400 {
-  gap: 400 + "vw";
+  gap: 400vw;
 }
 
 .gap-400-pixels {
-  gap: 400 + "px";
+  gap: 400px;
 }
 
 .gap-400-percents {
-  gap: 400 + "%";
+  gap: 400+0%;
 }
 
 .gap-500 {
-  gap: 500 + "vw";
+  gap: 500vw;
 }
 
 .gap-500-pixels {
-  gap: 500 + "px";
+  gap: 500px;
 }
 
 .gap-500-percents {
-  gap: 500 + "%";
+  gap: 500+0%;
 }
 
 .gap-600 {
-  gap: 600 + "vw";
+  gap: 600vw;
 }
 
 .gap-600-pixels {
-  gap: 600 + "px";
+  gap: 600px;
 }
 
 .gap-600-percents {
-  gap: 600 + "%";
+  gap: 600+0%;
 }
 
 .gap-700 {
-  gap: 700 + "vw";
+  gap: 700vw;
 }
 
 .gap-700-pixels {
-  gap: 700 + "px";
+  gap: 700px;
 }
 
 .gap-700-percents {
-  gap: 700 + "%";
+  gap: 700+0%;
 }
 
 .gap-800 {
-  gap: 800 + "vw";
+  gap: 800vw;
 }
 
 .gap-800-pixels {
-  gap: 800 + "px";
+  gap: 800px;
 }
 
 .gap-800-percents {
-  gap: 800 + "%";
+  gap: 800+0%;
 }
 
 .gap-900 {
-  gap: 900 + "vw";
+  gap: 900vw;
 }
 
 .gap-900-pixels {
-  gap: 900 + "px";
+  gap: 900px;
 }
 
 .gap-900-percents {
-  gap: 900 + "%";
+  gap: 900+0%;
 }
 
 .gap-1000 {
-  gap: 1000 + "vw";
+  gap: 1000vw;
 }
 
 .gap-1000-pixels {
-  gap: 1000 + "px";
+  gap: 1000px;
 }
 
 .gap-1000-percents {
-  gap: 1000 + "%";
+  gap: 1000+0%;
 }
 
 /*
@@ -3992,7 +3992,7 @@ html {
    * Remove default margin.
    */
 body {
-  margin: 0;
+  margin: 10vh 0 0 10vh;
 }
 
 /* HTML5 display definitions
@@ -4373,1490 +4373,994 @@ th {
 }
 
 .top-0 {
-  top: 0;
-}
-
-.top-0-pixels {
-  top: 0 + "px";
+  top: 0px;
 }
 
 .top-0-percents {
-  top: 0 + "%";
+  top: 0\%;
 }
 
 .top-1 {
-  top: 1;
-}
-
-.top-1-pixels {
-  top: 1 + "px";
+  top: 1px;
 }
 
 .top-1-percents {
-  top: 1 + "%";
+  top: 1\%;
 }
 
 .top-5 {
-  top: 5;
-}
-
-.top-5-pixels {
-  top: 5 + "px";
+  top: 5px;
 }
 
 .top-5-percents {
-  top: 5 + "%";
+  top: 5\%;
 }
 
 .top-10 {
-  top: 10;
-}
-
-.top-10-pixels {
-  top: 10 + "px";
+  top: 10px;
 }
 
 .top-10-percents {
-  top: 10 + "%";
+  top: 10\%;
 }
 
 .top-15 {
-  top: 15;
-}
-
-.top-15-pixels {
-  top: 15 + "px";
+  top: 15px;
 }
 
 .top-15-percents {
-  top: 15 + "%";
+  top: 15\%;
 }
 
 .top-20 {
-  top: 20;
-}
-
-.top-20-pixels {
-  top: 20 + "px";
+  top: 20px;
 }
 
 .top-20-percents {
-  top: 20 + "%";
+  top: 20\%;
 }
 
 .top-25 {
-  top: 25;
-}
-
-.top-25-pixels {
-  top: 25 + "px";
+  top: 25px;
 }
 
 .top-25-percents {
-  top: 25 + "%";
+  top: 25\%;
 }
 
 .top-30 {
-  top: 30;
-}
-
-.top-30-pixels {
-  top: 30 + "px";
+  top: 30px;
 }
 
 .top-30-percents {
-  top: 30 + "%";
+  top: 30\%;
 }
 
 .top-35 {
-  top: 35;
-}
-
-.top-35-pixels {
-  top: 35 + "px";
+  top: 35px;
 }
 
 .top-35-percents {
-  top: 35 + "%";
+  top: 35\%;
 }
 
 .top-40 {
-  top: 40;
-}
-
-.top-40-pixels {
-  top: 40 + "px";
+  top: 40px;
 }
 
 .top-40-percents {
-  top: 40 + "%";
+  top: 40\%;
 }
 
 .top-45 {
-  top: 45;
-}
-
-.top-45-pixels {
-  top: 45 + "px";
+  top: 45px;
 }
 
 .top-45-percents {
-  top: 45 + "%";
+  top: 45\%;
 }
 
 .top-50 {
-  top: 50;
-}
-
-.top-50-pixels {
-  top: 50 + "px";
+  top: 50px;
 }
 
 .top-50-percents {
-  top: 50 + "%";
+  top: 50\%;
 }
 
 .top-55 {
-  top: 55;
-}
-
-.top-55-pixels {
-  top: 55 + "px";
+  top: 55px;
 }
 
 .top-55-percents {
-  top: 55 + "%";
+  top: 55\%;
 }
 
 .top-60 {
-  top: 60;
-}
-
-.top-60-pixels {
-  top: 60 + "px";
+  top: 60px;
 }
 
 .top-60-percents {
-  top: 60 + "%";
+  top: 60\%;
 }
 
 .top-65 {
-  top: 65;
-}
-
-.top-65-pixels {
-  top: 65 + "px";
+  top: 65px;
 }
 
 .top-65-percents {
-  top: 65 + "%";
+  top: 65\%;
 }
 
 .top-70 {
-  top: 70;
-}
-
-.top-70-pixels {
-  top: 70 + "px";
+  top: 70px;
 }
 
 .top-70-percents {
-  top: 70 + "%";
+  top: 70\%;
 }
 
 .top-75 {
-  top: 75;
-}
-
-.top-75-pixels {
-  top: 75 + "px";
+  top: 75px;
 }
 
 .top-75-percents {
-  top: 75 + "%";
+  top: 75\%;
 }
 
 .top-80 {
-  top: 80;
-}
-
-.top-80-pixels {
-  top: 80 + "px";
+  top: 80px;
 }
 
 .top-80-percents {
-  top: 80 + "%";
+  top: 80\%;
 }
 
 .top-85 {
-  top: 85;
-}
-
-.top-85-pixels {
-  top: 85 + "px";
+  top: 85px;
 }
 
 .top-85-percents {
-  top: 85 + "%";
+  top: 85\%;
 }
 
 .top-90 {
-  top: 90;
-}
-
-.top-90-pixels {
-  top: 90 + "px";
+  top: 90px;
 }
 
 .top-90-percents {
-  top: 90 + "%";
+  top: 90\%;
 }
 
 .top-95 {
-  top: 95;
-}
-
-.top-95-pixels {
-  top: 95 + "px";
+  top: 95px;
 }
 
 .top-95-percents {
-  top: 95 + "%";
+  top: 95\%;
 }
 
 .top-100 {
-  top: 100;
-}
-
-.top-100-pixels {
-  top: 100 + "px";
+  top: 100px;
 }
 
 .top-100-percents {
-  top: 100 + "%";
+  top: 100\%;
 }
 
 .top-200 {
-  top: 200;
-}
-
-.top-200-pixels {
-  top: 200 + "px";
+  top: 200px;
 }
 
 .top-200-percents {
-  top: 200 + "%";
+  top: 200\%;
 }
 
 .top-300 {
-  top: 300;
-}
-
-.top-300-pixels {
-  top: 300 + "px";
+  top: 300px;
 }
 
 .top-300-percents {
-  top: 300 + "%";
+  top: 300\%;
 }
 
 .top-400 {
-  top: 400;
-}
-
-.top-400-pixels {
-  top: 400 + "px";
+  top: 400px;
 }
 
 .top-400-percents {
-  top: 400 + "%";
+  top: 400\%;
 }
 
 .top-500 {
-  top: 500;
-}
-
-.top-500-pixels {
-  top: 500 + "px";
+  top: 500px;
 }
 
 .top-500-percents {
-  top: 500 + "%";
+  top: 500\%;
 }
 
 .top-600 {
-  top: 600;
-}
-
-.top-600-pixels {
-  top: 600 + "px";
+  top: 600px;
 }
 
 .top-600-percents {
-  top: 600 + "%";
+  top: 600\%;
 }
 
 .top-700 {
-  top: 700;
-}
-
-.top-700-pixels {
-  top: 700 + "px";
+  top: 700px;
 }
 
 .top-700-percents {
-  top: 700 + "%";
+  top: 700\%;
 }
 
 .top-800 {
-  top: 800;
-}
-
-.top-800-pixels {
-  top: 800 + "px";
+  top: 800px;
 }
 
 .top-800-percents {
-  top: 800 + "%";
+  top: 800\%;
 }
 
 .top-900 {
-  top: 900;
-}
-
-.top-900-pixels {
-  top: 900 + "px";
+  top: 900px;
 }
 
 .top-900-percents {
-  top: 900 + "%";
+  top: 900\%;
 }
 
 .top-1000 {
-  top: 1000;
-}
-
-.top-1000-pixels {
-  top: 1000 + "px";
+  top: 1000px;
 }
 
 .top-1000-percents {
-  top: 1000 + "%";
+  top: 1000\%;
 }
 
 .bottom-0 {
-  bottom: 0;
-}
-
-.bottom-0-pixels {
-  bottom: 0 + "px";
+  bottom: 0px;
 }
 
 .bottom-0-percents {
-  bottom: 0 + "%";
+  bottom: 0\%;
 }
 
 .bottom-1 {
-  bottom: 1;
-}
-
-.bottom-1-pixels {
-  bottom: 1 + "px";
+  bottom: 1px;
 }
 
 .bottom-1-percents {
-  bottom: 1 + "%";
+  bottom: 1\%;
 }
 
 .bottom-5 {
-  bottom: 5;
-}
-
-.bottom-5-pixels {
-  bottom: 5 + "px";
+  bottom: 5px;
 }
 
 .bottom-5-percents {
-  bottom: 5 + "%";
+  bottom: 5\%;
 }
 
 .bottom-10 {
-  bottom: 10;
-}
-
-.bottom-10-pixels {
-  bottom: 10 + "px";
+  bottom: 10px;
 }
 
 .bottom-10-percents {
-  bottom: 10 + "%";
+  bottom: 10\%;
 }
 
 .bottom-15 {
-  bottom: 15;
-}
-
-.bottom-15-pixels {
-  bottom: 15 + "px";
+  bottom: 15px;
 }
 
 .bottom-15-percents {
-  bottom: 15 + "%";
+  bottom: 15\%;
 }
 
 .bottom-20 {
-  bottom: 20;
-}
-
-.bottom-20-pixels {
-  bottom: 20 + "px";
+  bottom: 20px;
 }
 
 .bottom-20-percents {
-  bottom: 20 + "%";
+  bottom: 20\%;
 }
 
 .bottom-25 {
-  bottom: 25;
-}
-
-.bottom-25-pixels {
-  bottom: 25 + "px";
+  bottom: 25px;
 }
 
 .bottom-25-percents {
-  bottom: 25 + "%";
+  bottom: 25\%;
 }
 
 .bottom-30 {
-  bottom: 30;
-}
-
-.bottom-30-pixels {
-  bottom: 30 + "px";
+  bottom: 30px;
 }
 
 .bottom-30-percents {
-  bottom: 30 + "%";
+  bottom: 30\%;
 }
 
 .bottom-35 {
-  bottom: 35;
-}
-
-.bottom-35-pixels {
-  bottom: 35 + "px";
+  bottom: 35px;
 }
 
 .bottom-35-percents {
-  bottom: 35 + "%";
+  bottom: 35\%;
 }
 
 .bottom-40 {
-  bottom: 40;
-}
-
-.bottom-40-pixels {
-  bottom: 40 + "px";
+  bottom: 40px;
 }
 
 .bottom-40-percents {
-  bottom: 40 + "%";
+  bottom: 40\%;
 }
 
 .bottom-45 {
-  bottom: 45;
-}
-
-.bottom-45-pixels {
-  bottom: 45 + "px";
+  bottom: 45px;
 }
 
 .bottom-45-percents {
-  bottom: 45 + "%";
+  bottom: 45\%;
 }
 
 .bottom-50 {
-  bottom: 50;
-}
-
-.bottom-50-pixels {
-  bottom: 50 + "px";
+  bottom: 50px;
 }
 
 .bottom-50-percents {
-  bottom: 50 + "%";
+  bottom: 50\%;
 }
 
 .bottom-55 {
-  bottom: 55;
-}
-
-.bottom-55-pixels {
-  bottom: 55 + "px";
+  bottom: 55px;
 }
 
 .bottom-55-percents {
-  bottom: 55 + "%";
+  bottom: 55\%;
 }
 
 .bottom-60 {
-  bottom: 60;
-}
-
-.bottom-60-pixels {
-  bottom: 60 + "px";
+  bottom: 60px;
 }
 
 .bottom-60-percents {
-  bottom: 60 + "%";
+  bottom: 60\%;
 }
 
 .bottom-65 {
-  bottom: 65;
-}
-
-.bottom-65-pixels {
-  bottom: 65 + "px";
+  bottom: 65px;
 }
 
 .bottom-65-percents {
-  bottom: 65 + "%";
+  bottom: 65\%;
 }
 
 .bottom-70 {
-  bottom: 70;
-}
-
-.bottom-70-pixels {
-  bottom: 70 + "px";
+  bottom: 70px;
 }
 
 .bottom-70-percents {
-  bottom: 70 + "%";
+  bottom: 70\%;
 }
 
 .bottom-75 {
-  bottom: 75;
-}
-
-.bottom-75-pixels {
-  bottom: 75 + "px";
+  bottom: 75px;
 }
 
 .bottom-75-percents {
-  bottom: 75 + "%";
+  bottom: 75\%;
 }
 
 .bottom-80 {
-  bottom: 80;
-}
-
-.bottom-80-pixels {
-  bottom: 80 + "px";
+  bottom: 80px;
 }
 
 .bottom-80-percents {
-  bottom: 80 + "%";
+  bottom: 80\%;
 }
 
 .bottom-85 {
-  bottom: 85;
-}
-
-.bottom-85-pixels {
-  bottom: 85 + "px";
+  bottom: 85px;
 }
 
 .bottom-85-percents {
-  bottom: 85 + "%";
+  bottom: 85\%;
 }
 
 .bottom-90 {
-  bottom: 90;
-}
-
-.bottom-90-pixels {
-  bottom: 90 + "px";
+  bottom: 90px;
 }
 
 .bottom-90-percents {
-  bottom: 90 + "%";
+  bottom: 90\%;
 }
 
 .bottom-95 {
-  bottom: 95;
-}
-
-.bottom-95-pixels {
-  bottom: 95 + "px";
+  bottom: 95px;
 }
 
 .bottom-95-percents {
-  bottom: 95 + "%";
+  bottom: 95\%;
 }
 
 .bottom-100 {
-  bottom: 100;
-}
-
-.bottom-100-pixels {
-  bottom: 100 + "px";
+  bottom: 100px;
 }
 
 .bottom-100-percents {
-  bottom: 100 + "%";
+  bottom: 100\%;
 }
 
 .bottom-200 {
-  bottom: 200;
-}
-
-.bottom-200-pixels {
-  bottom: 200 + "px";
+  bottom: 200px;
 }
 
 .bottom-200-percents {
-  bottom: 200 + "%";
+  bottom: 200\%;
 }
 
 .bottom-300 {
-  bottom: 300;
-}
-
-.bottom-300-pixels {
-  bottom: 300 + "px";
+  bottom: 300px;
 }
 
 .bottom-300-percents {
-  bottom: 300 + "%";
+  bottom: 300\%;
 }
 
 .bottom-400 {
-  bottom: 400;
-}
-
-.bottom-400-pixels {
-  bottom: 400 + "px";
+  bottom: 400px;
 }
 
 .bottom-400-percents {
-  bottom: 400 + "%";
+  bottom: 400\%;
 }
 
 .bottom-500 {
-  bottom: 500;
-}
-
-.bottom-500-pixels {
-  bottom: 500 + "px";
+  bottom: 500px;
 }
 
 .bottom-500-percents {
-  bottom: 500 + "%";
+  bottom: 500\%;
 }
 
 .bottom-600 {
-  bottom: 600;
-}
-
-.bottom-600-pixels {
-  bottom: 600 + "px";
+  bottom: 600px;
 }
 
 .bottom-600-percents {
-  bottom: 600 + "%";
+  bottom: 600\%;
 }
 
 .bottom-700 {
-  bottom: 700;
-}
-
-.bottom-700-pixels {
-  bottom: 700 + "px";
+  bottom: 700px;
 }
 
 .bottom-700-percents {
-  bottom: 700 + "%";
+  bottom: 700\%;
 }
 
 .bottom-800 {
-  bottom: 800;
-}
-
-.bottom-800-pixels {
-  bottom: 800 + "px";
+  bottom: 800px;
 }
 
 .bottom-800-percents {
-  bottom: 800 + "%";
+  bottom: 800\%;
 }
 
 .bottom-900 {
-  bottom: 900;
-}
-
-.bottom-900-pixels {
-  bottom: 900 + "px";
+  bottom: 900px;
 }
 
 .bottom-900-percents {
-  bottom: 900 + "%";
+  bottom: 900\%;
 }
 
 .bottom-1000 {
-  bottom: 1000;
-}
-
-.bottom-1000-pixels {
-  bottom: 1000 + "px";
+  bottom: 1000px;
 }
 
 .bottom-1000-percents {
-  bottom: 1000 + "%";
+  bottom: 1000\%;
 }
 
 .left-0 {
-  left: 0;
-}
-
-.left-0-pixels {
-  left: 0 + "px";
+  left: 0px;
 }
 
 .left-0-percents {
-  left: 0 + "%";
+  left: 0\%;
 }
 
 .left-1 {
-  left: 1;
-}
-
-.left-1-pixels {
-  left: 1 + "px";
+  left: 1px;
 }
 
 .left-1-percents {
-  left: 1 + "%";
+  left: 1\%;
 }
 
 .left-5 {
-  left: 5;
-}
-
-.left-5-pixels {
-  left: 5 + "px";
+  left: 5px;
 }
 
 .left-5-percents {
-  left: 5 + "%";
+  left: 5\%;
 }
 
 .left-10 {
-  left: 10;
-}
-
-.left-10-pixels {
-  left: 10 + "px";
+  left: 10px;
 }
 
 .left-10-percents {
-  left: 10 + "%";
+  left: 10\%;
 }
 
 .left-15 {
-  left: 15;
-}
-
-.left-15-pixels {
-  left: 15 + "px";
+  left: 15px;
 }
 
 .left-15-percents {
-  left: 15 + "%";
+  left: 15\%;
 }
 
 .left-20 {
-  left: 20;
-}
-
-.left-20-pixels {
-  left: 20 + "px";
+  left: 20px;
 }
 
 .left-20-percents {
-  left: 20 + "%";
+  left: 20\%;
 }
 
 .left-25 {
-  left: 25;
-}
-
-.left-25-pixels {
-  left: 25 + "px";
+  left: 25px;
 }
 
 .left-25-percents {
-  left: 25 + "%";
+  left: 25\%;
 }
 
 .left-30 {
-  left: 30;
-}
-
-.left-30-pixels {
-  left: 30 + "px";
+  left: 30px;
 }
 
 .left-30-percents {
-  left: 30 + "%";
+  left: 30\%;
 }
 
 .left-35 {
-  left: 35;
-}
-
-.left-35-pixels {
-  left: 35 + "px";
+  left: 35px;
 }
 
 .left-35-percents {
-  left: 35 + "%";
+  left: 35\%;
 }
 
 .left-40 {
-  left: 40;
-}
-
-.left-40-pixels {
-  left: 40 + "px";
+  left: 40px;
 }
 
 .left-40-percents {
-  left: 40 + "%";
+  left: 40\%;
 }
 
 .left-45 {
-  left: 45;
-}
-
-.left-45-pixels {
-  left: 45 + "px";
+  left: 45px;
 }
 
 .left-45-percents {
-  left: 45 + "%";
+  left: 45\%;
 }
 
 .left-50 {
-  left: 50;
-}
-
-.left-50-pixels {
-  left: 50 + "px";
+  left: 50px;
 }
 
 .left-50-percents {
-  left: 50 + "%";
+  left: 50\%;
 }
 
 .left-55 {
-  left: 55;
-}
-
-.left-55-pixels {
-  left: 55 + "px";
+  left: 55px;
 }
 
 .left-55-percents {
-  left: 55 + "%";
+  left: 55\%;
 }
 
 .left-60 {
-  left: 60;
-}
-
-.left-60-pixels {
-  left: 60 + "px";
+  left: 60px;
 }
 
 .left-60-percents {
-  left: 60 + "%";
+  left: 60\%;
 }
 
 .left-65 {
-  left: 65;
-}
-
-.left-65-pixels {
-  left: 65 + "px";
+  left: 65px;
 }
 
 .left-65-percents {
-  left: 65 + "%";
+  left: 65\%;
 }
 
 .left-70 {
-  left: 70;
-}
-
-.left-70-pixels {
-  left: 70 + "px";
+  left: 70px;
 }
 
 .left-70-percents {
-  left: 70 + "%";
+  left: 70\%;
 }
 
 .left-75 {
-  left: 75;
-}
-
-.left-75-pixels {
-  left: 75 + "px";
+  left: 75px;
 }
 
 .left-75-percents {
-  left: 75 + "%";
+  left: 75\%;
 }
 
 .left-80 {
-  left: 80;
-}
-
-.left-80-pixels {
-  left: 80 + "px";
+  left: 80px;
 }
 
 .left-80-percents {
-  left: 80 + "%";
+  left: 80\%;
 }
 
 .left-85 {
-  left: 85;
-}
-
-.left-85-pixels {
-  left: 85 + "px";
+  left: 85px;
 }
 
 .left-85-percents {
-  left: 85 + "%";
+  left: 85\%;
 }
 
 .left-90 {
-  left: 90;
-}
-
-.left-90-pixels {
-  left: 90 + "px";
+  left: 90px;
 }
 
 .left-90-percents {
-  left: 90 + "%";
+  left: 90\%;
 }
 
 .left-95 {
-  left: 95;
-}
-
-.left-95-pixels {
-  left: 95 + "px";
+  left: 95px;
 }
 
 .left-95-percents {
-  left: 95 + "%";
+  left: 95\%;
 }
 
 .left-100 {
-  left: 100;
-}
-
-.left-100-pixels {
-  left: 100 + "px";
+  left: 100px;
 }
 
 .left-100-percents {
-  left: 100 + "%";
+  left: 100\%;
 }
 
 .left-200 {
-  left: 200;
-}
-
-.left-200-pixels {
-  left: 200 + "px";
+  left: 200px;
 }
 
 .left-200-percents {
-  left: 200 + "%";
+  left: 200\%;
 }
 
 .left-300 {
-  left: 300;
-}
-
-.left-300-pixels {
-  left: 300 + "px";
+  left: 300px;
 }
 
 .left-300-percents {
-  left: 300 + "%";
+  left: 300\%;
 }
 
 .left-400 {
-  left: 400;
-}
-
-.left-400-pixels {
-  left: 400 + "px";
+  left: 400px;
 }
 
 .left-400-percents {
-  left: 400 + "%";
+  left: 400\%;
 }
 
 .left-500 {
-  left: 500;
-}
-
-.left-500-pixels {
-  left: 500 + "px";
+  left: 500px;
 }
 
 .left-500-percents {
-  left: 500 + "%";
+  left: 500\%;
 }
 
 .left-600 {
-  left: 600;
-}
-
-.left-600-pixels {
-  left: 600 + "px";
+  left: 600px;
 }
 
 .left-600-percents {
-  left: 600 + "%";
+  left: 600\%;
 }
 
 .left-700 {
-  left: 700;
-}
-
-.left-700-pixels {
-  left: 700 + "px";
+  left: 700px;
 }
 
 .left-700-percents {
-  left: 700 + "%";
+  left: 700\%;
 }
 
 .left-800 {
-  left: 800;
-}
-
-.left-800-pixels {
-  left: 800 + "px";
+  left: 800px;
 }
 
 .left-800-percents {
-  left: 800 + "%";
+  left: 800\%;
 }
 
 .left-900 {
-  left: 900;
-}
-
-.left-900-pixels {
-  left: 900 + "px";
+  left: 900px;
 }
 
 .left-900-percents {
-  left: 900 + "%";
+  left: 900\%;
 }
 
 .left-1000 {
-  left: 1000;
-}
-
-.left-1000-pixels {
-  left: 1000 + "px";
+  left: 1000px;
 }
 
 .left-1000-percents {
-  left: 1000 + "%";
+  left: 1000\%;
 }
 
 .right-0 {
-  right: 0;
-}
-
-.right-0-pixels {
-  right: 0 + "px";
+  right: 0px;
 }
 
 .right-0-percents {
-  right: 0 + "%";
+  right: 0\%;
 }
 
 .right-1 {
-  right: 1;
-}
-
-.right-1-pixels {
-  right: 1 + "px";
+  right: 1px;
 }
 
 .right-1-percents {
-  right: 1 + "%";
+  right: 1\%;
 }
 
 .right-5 {
-  right: 5;
-}
-
-.right-5-pixels {
-  right: 5 + "px";
+  right: 5px;
 }
 
 .right-5-percents {
-  right: 5 + "%";
+  right: 5\%;
 }
 
 .right-10 {
-  right: 10;
-}
-
-.right-10-pixels {
-  right: 10 + "px";
+  right: 10px;
 }
 
 .right-10-percents {
-  right: 10 + "%";
+  right: 10\%;
 }
 
 .right-15 {
-  right: 15;
-}
-
-.right-15-pixels {
-  right: 15 + "px";
+  right: 15px;
 }
 
 .right-15-percents {
-  right: 15 + "%";
+  right: 15\%;
 }
 
 .right-20 {
-  right: 20;
-}
-
-.right-20-pixels {
-  right: 20 + "px";
+  right: 20px;
 }
 
 .right-20-percents {
-  right: 20 + "%";
+  right: 20\%;
 }
 
 .right-25 {
-  right: 25;
-}
-
-.right-25-pixels {
-  right: 25 + "px";
+  right: 25px;
 }
 
 .right-25-percents {
-  right: 25 + "%";
+  right: 25\%;
 }
 
 .right-30 {
-  right: 30;
-}
-
-.right-30-pixels {
-  right: 30 + "px";
+  right: 30px;
 }
 
 .right-30-percents {
-  right: 30 + "%";
+  right: 30\%;
 }
 
 .right-35 {
-  right: 35;
-}
-
-.right-35-pixels {
-  right: 35 + "px";
+  right: 35px;
 }
 
 .right-35-percents {
-  right: 35 + "%";
+  right: 35\%;
 }
 
 .right-40 {
-  right: 40;
-}
-
-.right-40-pixels {
-  right: 40 + "px";
+  right: 40px;
 }
 
 .right-40-percents {
-  right: 40 + "%";
+  right: 40\%;
 }
 
 .right-45 {
-  right: 45;
-}
-
-.right-45-pixels {
-  right: 45 + "px";
+  right: 45px;
 }
 
 .right-45-percents {
-  right: 45 + "%";
+  right: 45\%;
 }
 
 .right-50 {
-  right: 50;
-}
-
-.right-50-pixels {
-  right: 50 + "px";
+  right: 50px;
 }
 
 .right-50-percents {
-  right: 50 + "%";
+  right: 50\%;
 }
 
 .right-55 {
-  right: 55;
-}
-
-.right-55-pixels {
-  right: 55 + "px";
+  right: 55px;
 }
 
 .right-55-percents {
-  right: 55 + "%";
+  right: 55\%;
 }
 
 .right-60 {
-  right: 60;
-}
-
-.right-60-pixels {
-  right: 60 + "px";
+  right: 60px;
 }
 
 .right-60-percents {
-  right: 60 + "%";
+  right: 60\%;
 }
 
 .right-65 {
-  right: 65;
-}
-
-.right-65-pixels {
-  right: 65 + "px";
+  right: 65px;
 }
 
 .right-65-percents {
-  right: 65 + "%";
+  right: 65\%;
 }
 
 .right-70 {
-  right: 70;
-}
-
-.right-70-pixels {
-  right: 70 + "px";
+  right: 70px;
 }
 
 .right-70-percents {
-  right: 70 + "%";
+  right: 70\%;
 }
 
 .right-75 {
-  right: 75;
-}
-
-.right-75-pixels {
-  right: 75 + "px";
+  right: 75px;
 }
 
 .right-75-percents {
-  right: 75 + "%";
+  right: 75\%;
 }
 
 .right-80 {
-  right: 80;
-}
-
-.right-80-pixels {
-  right: 80 + "px";
+  right: 80px;
 }
 
 .right-80-percents {
-  right: 80 + "%";
+  right: 80\%;
 }
 
 .right-85 {
-  right: 85;
-}
-
-.right-85-pixels {
-  right: 85 + "px";
+  right: 85px;
 }
 
 .right-85-percents {
-  right: 85 + "%";
+  right: 85\%;
 }
 
 .right-90 {
-  right: 90;
-}
-
-.right-90-pixels {
-  right: 90 + "px";
+  right: 90px;
 }
 
 .right-90-percents {
-  right: 90 + "%";
+  right: 90\%;
 }
 
 .right-95 {
-  right: 95;
-}
-
-.right-95-pixels {
-  right: 95 + "px";
+  right: 95px;
 }
 
 .right-95-percents {
-  right: 95 + "%";
+  right: 95\%;
 }
 
 .right-100 {
-  right: 100;
-}
-
-.right-100-pixels {
-  right: 100 + "px";
+  right: 100px;
 }
 
 .right-100-percents {
-  right: 100 + "%";
+  right: 100\%;
 }
 
 .right-200 {
-  right: 200;
-}
-
-.right-200-pixels {
-  right: 200 + "px";
+  right: 200px;
 }
 
 .right-200-percents {
-  right: 200 + "%";
+  right: 200\%;
 }
 
 .right-300 {
-  right: 300;
-}
-
-.right-300-pixels {
-  right: 300 + "px";
+  right: 300px;
 }
 
 .right-300-percents {
-  right: 300 + "%";
+  right: 300\%;
 }
 
 .right-400 {
-  right: 400;
-}
-
-.right-400-pixels {
-  right: 400 + "px";
+  right: 400px;
 }
 
 .right-400-percents {
-  right: 400 + "%";
+  right: 400\%;
 }
 
 .right-500 {
-  right: 500;
-}
-
-.right-500-pixels {
-  right: 500 + "px";
+  right: 500px;
 }
 
 .right-500-percents {
-  right: 500 + "%";
+  right: 500\%;
 }
 
 .right-600 {
-  right: 600;
-}
-
-.right-600-pixels {
-  right: 600 + "px";
+  right: 600px;
 }
 
 .right-600-percents {
-  right: 600 + "%";
+  right: 600\%;
 }
 
 .right-700 {
-  right: 700;
-}
-
-.right-700-pixels {
-  right: 700 + "px";
+  right: 700px;
 }
 
 .right-700-percents {
-  right: 700 + "%";
+  right: 700\%;
 }
 
 .right-800 {
-  right: 800;
-}
-
-.right-800-pixels {
-  right: 800 + "px";
+  right: 800px;
 }
 
 .right-800-percents {
-  right: 800 + "%";
+  right: 800\%;
 }
 
 .right-900 {
-  right: 900;
-}
-
-.right-900-pixels {
-  right: 900 + "px";
+  right: 900px;
 }
 
 .right-900-percents {
-  right: 900 + "%";
+  right: 900\%;
 }
 
 .right-1000 {
-  right: 1000;
-}
-
-.right-1000-pixels {
-  right: 1000 + "px";
+  right: 1000px;
 }
 
 .right-1000-percents {
-  right: 1000 + "%";
+  right: 1000\%;
 }
 /*# sourceMappingURL=basicss.css.map */
