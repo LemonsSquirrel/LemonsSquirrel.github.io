@@ -8,7 +8,7 @@
 }
 
 .width-1-percents {
-  width: 1+0%;
+  width: calc(1*1%);
 }
 
 .width-5 {
@@ -20,7 +20,7 @@
 }
 
 .width-5-percents {
-  width: 5+0%;
+  width: calc(5*1%);
 }
 
 .width-10 {
@@ -32,7 +32,7 @@
 }
 
 .width-10-percents {
-  width: 10+0%;
+  width: calc(10*1%);
 }
 
 .width-15 {
@@ -44,7 +44,7 @@
 }
 
 .width-15-percents {
-  width: 15+0%;
+  width: calc(15*1%);
 }
 
 .width-20 {
@@ -56,7 +56,7 @@
 }
 
 .width-20-percents {
-  width: 20+0%;
+  width: calc(20*1%);
 }
 
 .width-25 {
@@ -68,7 +68,7 @@
 }
 
 .width-25-percents {
-  width: 25+0%;
+  width: calc(25*1%);
 }
 
 .width-30 {
@@ -80,7 +80,7 @@
 }
 
 .width-30-percents {
-  width: 30+0%;
+  width: calc(30*1%);
 }
 
 .width-35 {
@@ -92,7 +92,7 @@
 }
 
 .width-35-percents {
-  width: 35+0%;
+  width: calc(35*1%);
 }
 
 .width-40 {
@@ -104,7 +104,7 @@
 }
 
 .width-40-percents {
-  width: 40+0%;
+  width: calc(40*1%);
 }
 
 .width-45 {
@@ -116,7 +116,7 @@
 }
 
 .width-45-percents {
-  width: 45+0%;
+  width: calc(45*1%);
 }
 
 .width-50 {
@@ -128,7 +128,7 @@
 }
 
 .width-50-percents {
-  width: 50+0%;
+  width: calc(50*1%);
 }
 
 .width-55 {
@@ -140,7 +140,7 @@
 }
 
 .width-55-percents {
-  width: 55+0%;
+  width: calc(55*1%);
 }
 
 .width-60 {
@@ -152,7 +152,7 @@
 }
 
 .width-60-percents {
-  width: 60+0%;
+  width: calc(60*1%);
 }
 
 .width-65 {
@@ -164,7 +164,7 @@
 }
 
 .width-65-percents {
-  width: 65+0%;
+  width: calc(65*1%);
 }
 
 .width-70 {
@@ -176,7 +176,7 @@
 }
 
 .width-70-percents {
-  width: 70+0%;
+  width: calc(70*1%);
 }
 
 .width-75 {
@@ -188,7 +188,7 @@
 }
 
 .width-75-percents {
-  width: 75+0%;
+  width: calc(75*1%);
 }
 
 .width-80 {
@@ -200,7 +200,7 @@
 }
 
 .width-80-percents {
-  width: 80+0%;
+  width: calc(80*1%);
 }
 
 .width-85 {
@@ -212,7 +212,7 @@
 }
 
 .width-85-percents {
-  width: 85+0%;
+  width: calc(85*1%);
 }
 
 .width-90 {
@@ -224,7 +224,7 @@
 }
 
 .width-90-percents {
-  width: 90+0%;
+  width: calc(90*1%);
 }
 
 .width-95 {
@@ -236,7 +236,7 @@
 }
 
 .width-95-percents {
-  width: 95+0%;
+  width: calc(95*1%);
 }
 
 .width-100 {
@@ -248,7 +248,7 @@
 }
 
 .width-100-percents {
-  width: 100+0%;
+  width: calc(100*1%);
 }
 
 .width-200 {
@@ -260,7 +260,7 @@
 }
 
 .width-200-percents {
-  width: 200+0%;
+  width: calc(200*1%);
 }
 
 .width-300 {
@@ -272,7 +272,7 @@
 }
 
 .width-300-percents {
-  width: 300+0%;
+  width: calc(300*1%);
 }
 
 .width-400 {
@@ -284,7 +284,7 @@
 }
 
 .width-400-percents {
-  width: 400+0%;
+  width: calc(400*1%);
 }
 
 .width-500 {
@@ -296,7 +296,7 @@
 }
 
 .width-500-percents {
-  width: 500+0%;
+  width: calc(500*1%);
 }
 
 .width-600 {
@@ -308,7 +308,7 @@
 }
 
 .width-600-percents {
-  width: 600+0%;
+  width: calc(600*1%);
 }
 
 .width-700 {
@@ -320,7 +320,7 @@
 }
 
 .width-700-percents {
-  width: 700+0%;
+  width: calc(700*1%);
 }
 
 .width-800 {
@@ -332,7 +332,7 @@
 }
 
 .width-800-percents {
-  width: 800+0%;
+  width: calc(800*1%);
 }
 
 .width-900 {
@@ -344,7 +344,7 @@
 }
 
 .width-900-percents {
-  width: 900+0%;
+  width: calc(900*1%);
 }
 
 .width-1000 {
@@ -356,7 +356,7 @@
 }
 
 .width-1000-percents {
-  width: 1000+0%;
+  width: calc(1000*1%);
 }
 
 .height-1 {
@@ -368,7 +368,7 @@
 }
 
 .height-1-percents {
-  height: 1+0%;
+  height: calc(1*1%);
 }
 
 .height-5 {
@@ -380,7 +380,7 @@
 }
 
 .height-5-percents {
-  height: 5+0%;
+  height: calc(5*1%);
 }
 
 .height-10 {
@@ -392,7 +392,7 @@
 }
 
 .height-10-percents {
-  height: 10+0%;
+  height: calc(10*1%);
 }
 
 .height-15 {
@@ -404,7 +404,7 @@
 }
 
 .height-15-percents {
-  height: 15+0%;
+  height: calc(15*1%);
 }
 
 .height-20 {
@@ -416,7 +416,7 @@
 }
 
 .height-20-percents {
-  height: 20+0%;
+  height: calc(20*1%);
 }
 
 .height-25 {
@@ -428,7 +428,7 @@
 }
 
 .height-25-percents {
-  height: 25+0%;
+  height: calc(25*1%);
 }
 
 .height-30 {
@@ -440,7 +440,7 @@
 }
 
 .height-30-percents {
-  height: 30+0%;
+  height: calc(30*1%);
 }
 
 .height-35 {
@@ -452,7 +452,7 @@
 }
 
 .height-35-percents {
-  height: 35+0%;
+  height: calc(35*1%);
 }
 
 .height-40 {
@@ -464,7 +464,7 @@
 }
 
 .height-40-percents {
-  height: 40+0%;
+  height: calc(40*1%);
 }
 
 .height-45 {
@@ -476,7 +476,7 @@
 }
 
 .height-45-percents {
-  height: 45+0%;
+  height: calc(45*1%);
 }
 
 .height-50 {
@@ -488,7 +488,7 @@
 }
 
 .height-50-percents {
-  height: 50+0%;
+  height: calc(50*1%);
 }
 
 .height-55 {
@@ -500,7 +500,7 @@
 }
 
 .height-55-percents {
-  height: 55+0%;
+  height: calc(55*1%);
 }
 
 .height-60 {
@@ -512,7 +512,7 @@
 }
 
 .height-60-percents {
-  height: 60+0%;
+  height: calc(60*1%);
 }
 
 .height-65 {
@@ -524,7 +524,7 @@
 }
 
 .height-65-percents {
-  height: 65+0%;
+  height: calc(65*1%);
 }
 
 .height-70 {
@@ -536,7 +536,7 @@
 }
 
 .height-70-percents {
-  height: 70+0%;
+  height: calc(70*1%);
 }
 
 .height-75 {
@@ -548,7 +548,7 @@
 }
 
 .height-75-percents {
-  height: 75+0%;
+  height: calc(75*1%);
 }
 
 .height-80 {
@@ -560,7 +560,7 @@
 }
 
 .height-80-percents {
-  height: 80+0%;
+  height: calc(80*1%);
 }
 
 .height-85 {
@@ -572,7 +572,7 @@
 }
 
 .height-85-percents {
-  height: 85+0%;
+  height: calc(85*1%);
 }
 
 .height-90 {
@@ -584,7 +584,7 @@
 }
 
 .height-90-percents {
-  height: 90+0%;
+  height: calc(90*1%);
 }
 
 .height-95 {
@@ -596,7 +596,7 @@
 }
 
 .height-95-percents {
-  height: 95+0%;
+  height: calc(95*1%);
 }
 
 .height-100 {
@@ -608,7 +608,7 @@
 }
 
 .height-100-percents {
-  height: 100+0%;
+  height: calc(100*1%);
 }
 
 .height-200 {
@@ -620,7 +620,7 @@
 }
 
 .height-200-percents {
-  height: 200+0%;
+  height: calc(200*1%);
 }
 
 .height-300 {
@@ -632,7 +632,7 @@
 }
 
 .height-300-percents {
-  height: 300+0%;
+  height: calc(300*1%);
 }
 
 .height-400 {
@@ -644,7 +644,7 @@
 }
 
 .height-400-percents {
-  height: 400+0%;
+  height: calc(400*1%);
 }
 
 .height-500 {
@@ -656,7 +656,7 @@
 }
 
 .height-500-percents {
-  height: 500+0%;
+  height: calc(500*1%);
 }
 
 .height-600 {
@@ -668,7 +668,7 @@
 }
 
 .height-600-percents {
-  height: 600+0%;
+  height: calc(600*1%);
 }
 
 .height-700 {
@@ -680,7 +680,7 @@
 }
 
 .height-700-percents {
-  height: 700+0%;
+  height: calc(700*1%);
 }
 
 .height-800 {
@@ -692,7 +692,7 @@
 }
 
 .height-800-percents {
-  height: 800+0%;
+  height: calc(800*1%);
 }
 
 .height-900 {
@@ -704,7 +704,7 @@
 }
 
 .height-900-percents {
-  height: 900+0%;
+  height: calc(900*1%);
 }
 
 .height-1000 {
@@ -716,7 +716,7 @@
 }
 
 .height-1000-percents {
-  height: 1000+0%;
+  height: calc(1000*1%);
 }
 
 .gap-1 {
@@ -728,7 +728,7 @@
 }
 
 .gap-1-percents {
-  gap: 1+0%;
+  gap: calc(1*1%);
 }
 
 .gap-5 {
@@ -740,7 +740,7 @@
 }
 
 .gap-5-percents {
-  gap: 5+0%;
+  gap: calc(5*1%);
 }
 
 .gap-10 {
@@ -752,7 +752,7 @@
 }
 
 .gap-10-percents {
-  gap: 10+0%;
+  gap: calc(10*1%);
 }
 
 .gap-15 {
@@ -764,7 +764,7 @@
 }
 
 .gap-15-percents {
-  gap: 15+0%;
+  gap: calc(15*1%);
 }
 
 .gap-20 {
@@ -776,7 +776,7 @@
 }
 
 .gap-20-percents {
-  gap: 20+0%;
+  gap: calc(20*1%);
 }
 
 .gap-25 {
@@ -788,7 +788,7 @@
 }
 
 .gap-25-percents {
-  gap: 25+0%;
+  gap: calc(25*1%);
 }
 
 .gap-30 {
@@ -800,7 +800,7 @@
 }
 
 .gap-30-percents {
-  gap: 30+0%;
+  gap: calc(30*1%);
 }
 
 .gap-35 {
@@ -812,7 +812,7 @@
 }
 
 .gap-35-percents {
-  gap: 35+0%;
+  gap: calc(35*1%);
 }
 
 .gap-40 {
@@ -824,7 +824,7 @@
 }
 
 .gap-40-percents {
-  gap: 40+0%;
+  gap: calc(40*1%);
 }
 
 .gap-45 {
@@ -836,7 +836,7 @@
 }
 
 .gap-45-percents {
-  gap: 45+0%;
+  gap: calc(45*1%);
 }
 
 .gap-50 {
@@ -848,7 +848,7 @@
 }
 
 .gap-50-percents {
-  gap: 50+0%;
+  gap: calc(50*1%);
 }
 
 .gap-55 {
@@ -860,7 +860,7 @@
 }
 
 .gap-55-percents {
-  gap: 55+0%;
+  gap: calc(55*1%);
 }
 
 .gap-60 {
@@ -872,7 +872,7 @@
 }
 
 .gap-60-percents {
-  gap: 60+0%;
+  gap: calc(60*1%);
 }
 
 .gap-65 {
@@ -884,7 +884,7 @@
 }
 
 .gap-65-percents {
-  gap: 65+0%;
+  gap: calc(65*1%);
 }
 
 .gap-70 {
@@ -896,7 +896,7 @@
 }
 
 .gap-70-percents {
-  gap: 70+0%;
+  gap: calc(70*1%);
 }
 
 .gap-75 {
@@ -908,7 +908,7 @@
 }
 
 .gap-75-percents {
-  gap: 75+0%;
+  gap: calc(75*1%);
 }
 
 .gap-80 {
@@ -920,7 +920,7 @@
 }
 
 .gap-80-percents {
-  gap: 80+0%;
+  gap: calc(80*1%);
 }
 
 .gap-85 {
@@ -932,7 +932,7 @@
 }
 
 .gap-85-percents {
-  gap: 85+0%;
+  gap: calc(85*1%);
 }
 
 .gap-90 {
@@ -944,7 +944,7 @@
 }
 
 .gap-90-percents {
-  gap: 90+0%;
+  gap: calc(90*1%);
 }
 
 .gap-95 {
@@ -956,7 +956,7 @@
 }
 
 .gap-95-percents {
-  gap: 95+0%;
+  gap: calc(95*1%);
 }
 
 .gap-100 {
@@ -968,7 +968,7 @@
 }
 
 .gap-100-percents {
-  gap: 100+0%;
+  gap: calc(100*1%);
 }
 
 .gap-200 {
@@ -980,7 +980,7 @@
 }
 
 .gap-200-percents {
-  gap: 200+0%;
+  gap: calc(200*1%);
 }
 
 .gap-300 {
@@ -992,7 +992,7 @@
 }
 
 .gap-300-percents {
-  gap: 300+0%;
+  gap: calc(300*1%);
 }
 
 .gap-400 {
@@ -1004,7 +1004,7 @@
 }
 
 .gap-400-percents {
-  gap: 400+0%;
+  gap: calc(400*1%);
 }
 
 .gap-500 {
@@ -1016,7 +1016,7 @@
 }
 
 .gap-500-percents {
-  gap: 500+0%;
+  gap: calc(500*1%);
 }
 
 .gap-600 {
@@ -1028,7 +1028,7 @@
 }
 
 .gap-600-percents {
-  gap: 600+0%;
+  gap: calc(600*1%);
 }
 
 .gap-700 {
@@ -1040,7 +1040,7 @@
 }
 
 .gap-700-percents {
-  gap: 700+0%;
+  gap: calc(700*1%);
 }
 
 .gap-800 {
@@ -1052,7 +1052,7 @@
 }
 
 .gap-800-percents {
-  gap: 800+0%;
+  gap: calc(800*1%);
 }
 
 .gap-900 {
@@ -1064,7 +1064,7 @@
 }
 
 .gap-900-percents {
-  gap: 900+0%;
+  gap: calc(900*1%);
 }
 
 .gap-1000 {
@@ -1076,7 +1076,7 @@
 }
 
 .gap-1000-percents {
-  gap: 1000+0%;
+  gap: calc(1000*1%);
 }
 
 /*
@@ -4377,7 +4377,7 @@ th {
 }
 
 .top-0-percents {
-  top: 0\%;
+  top: calc(0*1%);
 }
 
 .top-1 {
@@ -4385,7 +4385,7 @@ th {
 }
 
 .top-1-percents {
-  top: 1\%;
+  top: calc(1*1%);
 }
 
 .top-5 {
@@ -4393,7 +4393,7 @@ th {
 }
 
 .top-5-percents {
-  top: 5\%;
+  top: calc(5*1%);
 }
 
 .top-10 {
@@ -4401,7 +4401,7 @@ th {
 }
 
 .top-10-percents {
-  top: 10\%;
+  top: calc(10*1%);
 }
 
 .top-15 {
@@ -4409,7 +4409,7 @@ th {
 }
 
 .top-15-percents {
-  top: 15\%;
+  top: calc(15*1%);
 }
 
 .top-20 {
@@ -4417,7 +4417,7 @@ th {
 }
 
 .top-20-percents {
-  top: 20\%;
+  top: calc(20*1%);
 }
 
 .top-25 {
@@ -4425,7 +4425,7 @@ th {
 }
 
 .top-25-percents {
-  top: 25\%;
+  top: calc(25*1%);
 }
 
 .top-30 {
@@ -4433,7 +4433,7 @@ th {
 }
 
 .top-30-percents {
-  top: 30\%;
+  top: calc(30*1%);
 }
 
 .top-35 {
@@ -4441,7 +4441,7 @@ th {
 }
 
 .top-35-percents {
-  top: 35\%;
+  top: calc(35*1%);
 }
 
 .top-40 {
@@ -4449,7 +4449,7 @@ th {
 }
 
 .top-40-percents {
-  top: 40\%;
+  top: calc(40*1%);
 }
 
 .top-45 {
@@ -4457,7 +4457,7 @@ th {
 }
 
 .top-45-percents {
-  top: 45\%;
+  top: calc(45*1%);
 }
 
 .top-50 {
@@ -4465,7 +4465,7 @@ th {
 }
 
 .top-50-percents {
-  top: 50\%;
+  top: calc(50*1%);
 }
 
 .top-55 {
@@ -4473,7 +4473,7 @@ th {
 }
 
 .top-55-percents {
-  top: 55\%;
+  top: calc(55*1%);
 }
 
 .top-60 {
@@ -4481,7 +4481,7 @@ th {
 }
 
 .top-60-percents {
-  top: 60\%;
+  top: calc(60*1%);
 }
 
 .top-65 {
@@ -4489,7 +4489,7 @@ th {
 }
 
 .top-65-percents {
-  top: 65\%;
+  top: calc(65*1%);
 }
 
 .top-70 {
@@ -4497,7 +4497,7 @@ th {
 }
 
 .top-70-percents {
-  top: 70\%;
+  top: calc(70*1%);
 }
 
 .top-75 {
@@ -4505,7 +4505,7 @@ th {
 }
 
 .top-75-percents {
-  top: 75\%;
+  top: calc(75*1%);
 }
 
 .top-80 {
@@ -4513,7 +4513,7 @@ th {
 }
 
 .top-80-percents {
-  top: 80\%;
+  top: calc(80*1%);
 }
 
 .top-85 {
@@ -4521,7 +4521,7 @@ th {
 }
 
 .top-85-percents {
-  top: 85\%;
+  top: calc(85*1%);
 }
 
 .top-90 {
@@ -4529,7 +4529,7 @@ th {
 }
 
 .top-90-percents {
-  top: 90\%;
+  top: calc(90*1%);
 }
 
 .top-95 {
@@ -4537,7 +4537,7 @@ th {
 }
 
 .top-95-percents {
-  top: 95\%;
+  top: calc(95*1%);
 }
 
 .top-100 {
@@ -4545,7 +4545,7 @@ th {
 }
 
 .top-100-percents {
-  top: 100\%;
+  top: calc(100*1%);
 }
 
 .top-200 {
@@ -4553,7 +4553,7 @@ th {
 }
 
 .top-200-percents {
-  top: 200\%;
+  top: calc(200*1%);
 }
 
 .top-300 {
@@ -4561,7 +4561,7 @@ th {
 }
 
 .top-300-percents {
-  top: 300\%;
+  top: calc(300*1%);
 }
 
 .top-400 {
@@ -4569,7 +4569,7 @@ th {
 }
 
 .top-400-percents {
-  top: 400\%;
+  top: calc(400*1%);
 }
 
 .top-500 {
@@ -4577,7 +4577,7 @@ th {
 }
 
 .top-500-percents {
-  top: 500\%;
+  top: calc(500*1%);
 }
 
 .top-600 {
@@ -4585,7 +4585,7 @@ th {
 }
 
 .top-600-percents {
-  top: 600\%;
+  top: calc(600*1%);
 }
 
 .top-700 {
@@ -4593,7 +4593,7 @@ th {
 }
 
 .top-700-percents {
-  top: 700\%;
+  top: calc(700*1%);
 }
 
 .top-800 {
@@ -4601,7 +4601,7 @@ th {
 }
 
 .top-800-percents {
-  top: 800\%;
+  top: calc(800*1%);
 }
 
 .top-900 {
@@ -4609,7 +4609,7 @@ th {
 }
 
 .top-900-percents {
-  top: 900\%;
+  top: calc(900*1%);
 }
 
 .top-1000 {
@@ -4617,7 +4617,7 @@ th {
 }
 
 .top-1000-percents {
-  top: 1000\%;
+  top: calc(1000*1%);
 }
 
 .bottom-0 {
@@ -4625,7 +4625,7 @@ th {
 }
 
 .bottom-0-percents {
-  bottom: 0\%;
+  bottom: calc(0*1%);
 }
 
 .bottom-1 {
@@ -4633,7 +4633,7 @@ th {
 }
 
 .bottom-1-percents {
-  bottom: 1\%;
+  bottom: calc(1*1%);
 }
 
 .bottom-5 {
@@ -4641,7 +4641,7 @@ th {
 }
 
 .bottom-5-percents {
-  bottom: 5\%;
+  bottom: calc(5*1%);
 }
 
 .bottom-10 {
@@ -4649,7 +4649,7 @@ th {
 }
 
 .bottom-10-percents {
-  bottom: 10\%;
+  bottom: calc(10*1%);
 }
 
 .bottom-15 {
@@ -4657,7 +4657,7 @@ th {
 }
 
 .bottom-15-percents {
-  bottom: 15\%;
+  bottom: calc(15*1%);
 }
 
 .bottom-20 {
@@ -4665,7 +4665,7 @@ th {
 }
 
 .bottom-20-percents {
-  bottom: 20\%;
+  bottom: calc(20*1%);
 }
 
 .bottom-25 {
@@ -4673,7 +4673,7 @@ th {
 }
 
 .bottom-25-percents {
-  bottom: 25\%;
+  bottom: calc(25*1%);
 }
 
 .bottom-30 {
@@ -4681,7 +4681,7 @@ th {
 }
 
 .bottom-30-percents {
-  bottom: 30\%;
+  bottom: calc(30*1%);
 }
 
 .bottom-35 {
@@ -4689,7 +4689,7 @@ th {
 }
 
 .bottom-35-percents {
-  bottom: 35\%;
+  bottom: calc(35*1%);
 }
 
 .bottom-40 {
@@ -4697,7 +4697,7 @@ th {
 }
 
 .bottom-40-percents {
-  bottom: 40\%;
+  bottom: calc(40*1%);
 }
 
 .bottom-45 {
@@ -4705,7 +4705,7 @@ th {
 }
 
 .bottom-45-percents {
-  bottom: 45\%;
+  bottom: calc(45*1%);
 }
 
 .bottom-50 {
@@ -4713,7 +4713,7 @@ th {
 }
 
 .bottom-50-percents {
-  bottom: 50\%;
+  bottom: calc(50*1%);
 }
 
 .bottom-55 {
@@ -4721,7 +4721,7 @@ th {
 }
 
 .bottom-55-percents {
-  bottom: 55\%;
+  bottom: calc(55*1%);
 }
 
 .bottom-60 {
@@ -4729,7 +4729,7 @@ th {
 }
 
 .bottom-60-percents {
-  bottom: 60\%;
+  bottom: calc(60*1%);
 }
 
 .bottom-65 {
@@ -4737,7 +4737,7 @@ th {
 }
 
 .bottom-65-percents {
-  bottom: 65\%;
+  bottom: calc(65*1%);
 }
 
 .bottom-70 {
@@ -4745,7 +4745,7 @@ th {
 }
 
 .bottom-70-percents {
-  bottom: 70\%;
+  bottom: calc(70*1%);
 }
 
 .bottom-75 {
@@ -4753,7 +4753,7 @@ th {
 }
 
 .bottom-75-percents {
-  bottom: 75\%;
+  bottom: calc(75*1%);
 }
 
 .bottom-80 {
@@ -4761,7 +4761,7 @@ th {
 }
 
 .bottom-80-percents {
-  bottom: 80\%;
+  bottom: calc(80*1%);
 }
 
 .bottom-85 {
@@ -4769,7 +4769,7 @@ th {
 }
 
 .bottom-85-percents {
-  bottom: 85\%;
+  bottom: calc(85*1%);
 }
 
 .bottom-90 {
@@ -4777,7 +4777,7 @@ th {
 }
 
 .bottom-90-percents {
-  bottom: 90\%;
+  bottom: calc(90*1%);
 }
 
 .bottom-95 {
@@ -4785,7 +4785,7 @@ th {
 }
 
 .bottom-95-percents {
-  bottom: 95\%;
+  bottom: calc(95*1%);
 }
 
 .bottom-100 {
@@ -4793,7 +4793,7 @@ th {
 }
 
 .bottom-100-percents {
-  bottom: 100\%;
+  bottom: calc(100*1%);
 }
 
 .bottom-200 {
@@ -4801,7 +4801,7 @@ th {
 }
 
 .bottom-200-percents {
-  bottom: 200\%;
+  bottom: calc(200*1%);
 }
 
 .bottom-300 {
@@ -4809,7 +4809,7 @@ th {
 }
 
 .bottom-300-percents {
-  bottom: 300\%;
+  bottom: calc(300*1%);
 }
 
 .bottom-400 {
@@ -4817,7 +4817,7 @@ th {
 }
 
 .bottom-400-percents {
-  bottom: 400\%;
+  bottom: calc(400*1%);
 }
 
 .bottom-500 {
@@ -4825,7 +4825,7 @@ th {
 }
 
 .bottom-500-percents {
-  bottom: 500\%;
+  bottom: calc(500*1%);
 }
 
 .bottom-600 {
@@ -4833,7 +4833,7 @@ th {
 }
 
 .bottom-600-percents {
-  bottom: 600\%;
+  bottom: calc(600*1%);
 }
 
 .bottom-700 {
@@ -4841,7 +4841,7 @@ th {
 }
 
 .bottom-700-percents {
-  bottom: 700\%;
+  bottom: calc(700*1%);
 }
 
 .bottom-800 {
@@ -4849,7 +4849,7 @@ th {
 }
 
 .bottom-800-percents {
-  bottom: 800\%;
+  bottom: calc(800*1%);
 }
 
 .bottom-900 {
@@ -4857,7 +4857,7 @@ th {
 }
 
 .bottom-900-percents {
-  bottom: 900\%;
+  bottom: calc(900*1%);
 }
 
 .bottom-1000 {
@@ -4865,7 +4865,7 @@ th {
 }
 
 .bottom-1000-percents {
-  bottom: 1000\%;
+  bottom: calc(1000*1%);
 }
 
 .left-0 {
@@ -4873,7 +4873,7 @@ th {
 }
 
 .left-0-percents {
-  left: 0\%;
+  left: calc(0*1%);
 }
 
 .left-1 {
@@ -4881,7 +4881,7 @@ th {
 }
 
 .left-1-percents {
-  left: 1\%;
+  left: calc(1*1%);
 }
 
 .left-5 {
@@ -4889,7 +4889,7 @@ th {
 }
 
 .left-5-percents {
-  left: 5\%;
+  left: calc(5*1%);
 }
 
 .left-10 {
@@ -4897,7 +4897,7 @@ th {
 }
 
 .left-10-percents {
-  left: 10\%;
+  left: calc(10*1%);
 }
 
 .left-15 {
@@ -4905,7 +4905,7 @@ th {
 }
 
 .left-15-percents {
-  left: 15\%;
+  left: calc(15*1%);
 }
 
 .left-20 {
@@ -4913,7 +4913,7 @@ th {
 }
 
 .left-20-percents {
-  left: 20\%;
+  left: calc(20*1%);
 }
 
 .left-25 {
@@ -4921,7 +4921,7 @@ th {
 }
 
 .left-25-percents {
-  left: 25\%;
+  left: calc(25*1%);
 }
 
 .left-30 {
@@ -4929,7 +4929,7 @@ th {
 }
 
 .left-30-percents {
-  left: 30\%;
+  left: calc(30*1%);
 }
 
 .left-35 {
@@ -4937,7 +4937,7 @@ th {
 }
 
 .left-35-percents {
-  left: 35\%;
+  left: calc(35*1%);
 }
 
 .left-40 {
@@ -4945,7 +4945,7 @@ th {
 }
 
 .left-40-percents {
-  left: 40\%;
+  left: calc(40*1%);
 }
 
 .left-45 {
@@ -4953,7 +4953,7 @@ th {
 }
 
 .left-45-percents {
-  left: 45\%;
+  left: calc(45*1%);
 }
 
 .left-50 {
@@ -4961,7 +4961,7 @@ th {
 }
 
 .left-50-percents {
-  left: 50\%;
+  left: calc(50*1%);
 }
 
 .left-55 {
@@ -4969,7 +4969,7 @@ th {
 }
 
 .left-55-percents {
-  left: 55\%;
+  left: calc(55*1%);
 }
 
 .left-60 {
@@ -4977,7 +4977,7 @@ th {
 }
 
 .left-60-percents {
-  left: 60\%;
+  left: calc(60*1%);
 }
 
 .left-65 {
@@ -4985,7 +4985,7 @@ th {
 }
 
 .left-65-percents {
-  left: 65\%;
+  left: calc(65*1%);
 }
 
 .left-70 {
@@ -4993,7 +4993,7 @@ th {
 }
 
 .left-70-percents {
-  left: 70\%;
+  left: calc(70*1%);
 }
 
 .left-75 {
@@ -5001,7 +5001,7 @@ th {
 }
 
 .left-75-percents {
-  left: 75\%;
+  left: calc(75*1%);
 }
 
 .left-80 {
@@ -5009,7 +5009,7 @@ th {
 }
 
 .left-80-percents {
-  left: 80\%;
+  left: calc(80*1%);
 }
 
 .left-85 {
@@ -5017,7 +5017,7 @@ th {
 }
 
 .left-85-percents {
-  left: 85\%;
+  left: calc(85*1%);
 }
 
 .left-90 {
@@ -5025,7 +5025,7 @@ th {
 }
 
 .left-90-percents {
-  left: 90\%;
+  left: calc(90*1%);
 }
 
 .left-95 {
@@ -5033,7 +5033,7 @@ th {
 }
 
 .left-95-percents {
-  left: 95\%;
+  left: calc(95*1%);
 }
 
 .left-100 {
@@ -5041,7 +5041,7 @@ th {
 }
 
 .left-100-percents {
-  left: 100\%;
+  left: calc(100*1%);
 }
 
 .left-200 {
@@ -5049,7 +5049,7 @@ th {
 }
 
 .left-200-percents {
-  left: 200\%;
+  left: calc(200*1%);
 }
 
 .left-300 {
@@ -5057,7 +5057,7 @@ th {
 }
 
 .left-300-percents {
-  left: 300\%;
+  left: calc(300*1%);
 }
 
 .left-400 {
@@ -5065,7 +5065,7 @@ th {
 }
 
 .left-400-percents {
-  left: 400\%;
+  left: calc(400*1%);
 }
 
 .left-500 {
@@ -5073,7 +5073,7 @@ th {
 }
 
 .left-500-percents {
-  left: 500\%;
+  left: calc(500*1%);
 }
 
 .left-600 {
@@ -5081,7 +5081,7 @@ th {
 }
 
 .left-600-percents {
-  left: 600\%;
+  left: calc(600*1%);
 }
 
 .left-700 {
@@ -5089,7 +5089,7 @@ th {
 }
 
 .left-700-percents {
-  left: 700\%;
+  left: calc(700*1%);
 }
 
 .left-800 {
@@ -5097,7 +5097,7 @@ th {
 }
 
 .left-800-percents {
-  left: 800\%;
+  left: calc(800*1%);
 }
 
 .left-900 {
@@ -5105,7 +5105,7 @@ th {
 }
 
 .left-900-percents {
-  left: 900\%;
+  left: calc(900*1%);
 }
 
 .left-1000 {
@@ -5113,7 +5113,7 @@ th {
 }
 
 .left-1000-percents {
-  left: 1000\%;
+  left: calc(1000*1%);
 }
 
 .right-0 {
@@ -5121,7 +5121,7 @@ th {
 }
 
 .right-0-percents {
-  right: 0\%;
+  right: calc(0*1%);
 }
 
 .right-1 {
@@ -5129,7 +5129,7 @@ th {
 }
 
 .right-1-percents {
-  right: 1\%;
+  right: calc(1*1%);
 }
 
 .right-5 {
@@ -5137,7 +5137,7 @@ th {
 }
 
 .right-5-percents {
-  right: 5\%;
+  right: calc(5*1%);
 }
 
 .right-10 {
@@ -5145,7 +5145,7 @@ th {
 }
 
 .right-10-percents {
-  right: 10\%;
+  right: calc(10*1%);
 }
 
 .right-15 {
@@ -5153,7 +5153,7 @@ th {
 }
 
 .right-15-percents {
-  right: 15\%;
+  right: calc(15*1%);
 }
 
 .right-20 {
@@ -5161,7 +5161,7 @@ th {
 }
 
 .right-20-percents {
-  right: 20\%;
+  right: calc(20*1%);
 }
 
 .right-25 {
@@ -5169,7 +5169,7 @@ th {
 }
 
 .right-25-percents {
-  right: 25\%;
+  right: calc(25*1%);
 }
 
 .right-30 {
@@ -5177,7 +5177,7 @@ th {
 }
 
 .right-30-percents {
-  right: 30\%;
+  right: calc(30*1%);
 }
 
 .right-35 {
@@ -5185,7 +5185,7 @@ th {
 }
 
 .right-35-percents {
-  right: 35\%;
+  right: calc(35*1%);
 }
 
 .right-40 {
@@ -5193,7 +5193,7 @@ th {
 }
 
 .right-40-percents {
-  right: 40\%;
+  right: calc(40*1%);
 }
 
 .right-45 {
@@ -5201,7 +5201,7 @@ th {
 }
 
 .right-45-percents {
-  right: 45\%;
+  right: calc(45*1%);
 }
 
 .right-50 {
@@ -5209,7 +5209,7 @@ th {
 }
 
 .right-50-percents {
-  right: 50\%;
+  right: calc(50*1%);
 }
 
 .right-55 {
@@ -5217,7 +5217,7 @@ th {
 }
 
 .right-55-percents {
-  right: 55\%;
+  right: calc(55*1%);
 }
 
 .right-60 {
@@ -5225,7 +5225,7 @@ th {
 }
 
 .right-60-percents {
-  right: 60\%;
+  right: calc(60*1%);
 }
 
 .right-65 {
@@ -5233,7 +5233,7 @@ th {
 }
 
 .right-65-percents {
-  right: 65\%;
+  right: calc(65*1%);
 }
 
 .right-70 {
@@ -5241,7 +5241,7 @@ th {
 }
 
 .right-70-percents {
-  right: 70\%;
+  right: calc(70*1%);
 }
 
 .right-75 {
@@ -5249,7 +5249,7 @@ th {
 }
 
 .right-75-percents {
-  right: 75\%;
+  right: calc(75*1%);
 }
 
 .right-80 {
@@ -5257,7 +5257,7 @@ th {
 }
 
 .right-80-percents {
-  right: 80\%;
+  right: calc(80*1%);
 }
 
 .right-85 {
@@ -5265,7 +5265,7 @@ th {
 }
 
 .right-85-percents {
-  right: 85\%;
+  right: calc(85*1%);
 }
 
 .right-90 {
@@ -5273,7 +5273,7 @@ th {
 }
 
 .right-90-percents {
-  right: 90\%;
+  right: calc(90*1%);
 }
 
 .right-95 {
@@ -5281,7 +5281,7 @@ th {
 }
 
 .right-95-percents {
-  right: 95\%;
+  right: calc(95*1%);
 }
 
 .right-100 {
@@ -5289,7 +5289,7 @@ th {
 }
 
 .right-100-percents {
-  right: 100\%;
+  right: calc(100*1%);
 }
 
 .right-200 {
@@ -5297,7 +5297,7 @@ th {
 }
 
 .right-200-percents {
-  right: 200\%;
+  right: calc(200*1%);
 }
 
 .right-300 {
@@ -5305,7 +5305,7 @@ th {
 }
 
 .right-300-percents {
-  right: 300\%;
+  right: calc(300*1%);
 }
 
 .right-400 {
@@ -5313,7 +5313,7 @@ th {
 }
 
 .right-400-percents {
-  right: 400\%;
+  right: calc(400*1%);
 }
 
 .right-500 {
@@ -5321,7 +5321,7 @@ th {
 }
 
 .right-500-percents {
-  right: 500\%;
+  right: calc(500*1%);
 }
 
 .right-600 {
@@ -5329,7 +5329,7 @@ th {
 }
 
 .right-600-percents {
-  right: 600\%;
+  right: calc(600*1%);
 }
 
 .right-700 {
@@ -5337,7 +5337,7 @@ th {
 }
 
 .right-700-percents {
-  right: 700\%;
+  right: calc(700*1%);
 }
 
 .right-800 {
@@ -5345,7 +5345,7 @@ th {
 }
 
 .right-800-percents {
-  right: 800\%;
+  right: calc(800*1%);
 }
 
 .right-900 {
@@ -5353,7 +5353,7 @@ th {
 }
 
 .right-900-percents {
-  right: 900\%;
+  right: calc(900*1%);
 }
 
 .right-1000 {
@@ -5361,6 +5361,6 @@ th {
 }
 
 .right-1000-percents {
-  right: 1000\%;
+  right: calc(1000*1%);
 }
 /*# sourceMappingURL=basicss.css.map */
